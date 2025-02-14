@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<video>
+	<mobileType id="NEC400i">
+		<content id='ANDREA01'>98</content>
+		<content id='AVEC_CLASSE_CLIP'>98</content>
+		<content id='B_MCP_MB_BIANI959964'>85</content>
+		<content id='B_MCP_MB_BIANI959965'>85</content>
+		<content id='B_MCP_MB_BIANI959966'>87</content>
+		<content id='B_MCP_MB_BIANI959967'>90</content>
+		<content id='B_MCP_MB_BIANI959968'>73</content>
+		<content id='B_MCP_MB_BIANI959973'>84</content>
+		<content id='B_MCP_MB_BIANI959974'>85</content>
+		<content id='B_MCP_MB_BIANI959975'>84</content>
+		<content id='B_MCP_MB_BIANI959981'>85</content>
+		<content id='B_MCP_MB_BIANI959981P'>92</content>
+		<content id='B_MCP_MB_BIANI959985'>84</content>
+		<content id='B_MCP_MB_BIANI959987'>85</content>
+		<content id='B_MCP_MB_BIANI959989'>85</content>
+		<content id='B_MCP_MB_BIANI959993'>92</content>
+		<content id='B_MCP_MB_BIANI959996'>84</content>
+		<content id='B_MCP_MB_BIANI959998'>84</content>
+		<content id='B_MCP_MB_BIANI969881'>86</content>
+		<content id='B_MCP_MB_BIANI969884'>86</content>
+		<content id='B_MCP_MB_BIANI969884P'>99</content>
+		<content id='B_MCP_MB_BIANI969885'>90</content>
+		<content id='B_MCP_MB_BIANI969894'>85</content>
+		<content id='B_MCP_MB_BIANI969902'>81</content>
+		<content id='B_MCP_MB_BIANI969904'>80</content>
+		<content id='B_MCP_MB_BIANI969906'>83</content>
+		<content id='B_MCP_MB_BIANI969908'>87</content>
+		<content id='B_MCP_MB_BIANI969910'>82</content>
+		<content id='B_MCP_MB_BIANI969916'>87</content>
+		<content id='B_MCP_MB_BIANI969917'>86</content>
+		<content id='B_MCP_MB_BIANI969923'>80</content>
+		<content id='B_MCP_MB_BIANI969925'>80</content>
+		<content id='B_MCP_MB_BIANI969931'>86</content>
+		<content id='B_MCP_MB_BIANI969932'>86</content>
+		<content id='B_MCP_MB_BIANI969936'>85</content>
+		<content id='B_MCP_MB_BIANI969938'>87</content>
+		<content id='B_MCP_MB_BIANI969940'>87</content>
+		<content id='B_MCP_MB_BIANI969945'>92</content>
+		<content id='B_MCP_MB_BIANI969945P1'>93</content>
+		<content id='B_MCP_MB_BIANI969945P2'>90</content>
+		<content id='B_MCP_MB_BIANI969946'>78</content>
+		<content id='B_MCP_MB_BIANI969947'>83</content>
+		<content id='B_MCP_MB_BIANI979910'>85</content>
+		<content id='B_MCP_MB_BIANI979922'>85</content>
+		<content id='B_MCP_MB_BIANI979946'>84</content>
+		<content id='B_MCP_MB_BIANI979962'>85</content>
+		<content id='B_MCP_MB_BIANI979964'>82</content>
+		<content id='B_MCP_MB_BIANI979969'>82</content>
+		<content id='B_MCP_MB_BIANI979970'>82</content>
+		<content id='B_MCP_MB_BIANI979972'>81</content>
+		<content id='B_MCP_MB_BIANI979990'>83</content>
+		<content id='B_MCP_MB_BIANI979995'>78</content>
+		<content id='B_MCP_MB_BIANI989981'>76</content>
+		<content id='B_MCP_MB_BIANI989986'>84</content>
+		<content id='B_MCP_MB_BIANI989986P'>92</content>
+		<content id='B_MCP_MB_BIANI999999'>82</content>
+		<content id='B_MCP_MB_BICLD969992'>87</content>
+		<content id='B_MCP_MB_BICLD969997'>84</content>
+		<content id='B_MCP_MB_BICLD969998'>84</content>
+		<content id='B_MCP_MB_BICLD979962'>81</content>
+		<content id='B_MCP_MB_BICLD979964'>81</content>
+		<content id='B_MCP_MB_BICLD979968'>78</content>
+		<content id='B_MCP_MB_BICLD979971'>85</content>
+		<content id='B_MCP_MB_BICLD979972'>86</content>
+		<content id='B_MCP_MB_BICLD979975'>85</content>
+		<content id='B_MCP_MB_BICLD979979'>86</content>
+		<content id='B_MCP_MB_BICLD979983'>85</content>
+		<content id='B_MCP_MB_BICLD979985'>86</content>
+		<content id='B_MCP_MB_BICLD979988'>86</content>
+		<content id='B_MCP_MB_BICLD979989'>87</content>
+		<content id='B_MCP_MB_BICLD979991'>86</content>
+		<content id='B_MCP_MB_BICLD979994'>87</content>
+		<content id='B_MCP_MB_BICLD979995'>88</content>
+		<content id='B_MCP_MB_BICLD979997'>87</content>
+		<content id='B_MCP_MB_BINAT959966'>88</content>
+		<content id='B_MCP_MB_BINAT959971'>84</content>
+		<content id='B_MCP_MB_BINAT979994'>87</content>
+		<content id='B_MCP_MB_BIVEC919980'>89</content>
+		<content id='B_MCP_MB_BIVEC919996'>89</content>
+		<content id='B_MCP_MB_BIVEC919997'>88</content>
+		<content id='B_MCP_MB_BIVEC919998'>89</content>
+		<content id='B_MCP_MB_BIVEC929997'>89</content>
+		<content id='B_MCP_MB_BIVEC929999'>89</content>
+		<content id='B_MCP_MB_BIVEC959785'>88</content>
+		<content id='B_MCP_MB_BIVEC959800'>88</content>
+		<content id='B_MCP_MB_BIVEC959842'>87</content>
+		<content id='B_MCP_MB_BIVEC959873'>85</content>
+		<content id='B_MCP_MB_BIVEC959886'>87</content>
+		<content id='B_MCP_MB_BIVEC959902'>86</content>
+		<content id='B_MCP_MB_BIVEC959904'>87</content>
+		<content id='B_MCP_MB_BIVEC959906'>84</content>
+		<content id='B_MCP_MB_BIVEC969853'>89</content>
+		<content id='B_MCP_MB_BIVEC979833'>88</content>
+		<content id='B_MCP_MB_BIVEC979890'>86</content>
+		<content id='B_MCP_MB_BIWAT959996'>89</content>
+		<content id='ENSEMBLE_CLIP'>99</content>
+		<content id='JUDITH01'>99</content>
+		<content id='JUDITH02'>99</content>
+		<content id='KEUFS_SK_V6'>95</content>
+		<content id='KM_VIDEO_ARAS'>97</content>
+		<content id='KM_VIDEO_BEACH'>92</content>
+		<content id='KM_VIDEO_CAR'>90</content>
+		<content id='KM_VIDEO_CHUTELION'>95</content>
+		<content id='KM_VIDEO_GRENOUILLE1'>98</content>
+		<content id='KM_VIDEO_GRENOUILLE2'>98</content>
+		<content id='KM_VIDEO_HIPPO'>87</content>
+		<content id='KM_VIDEO_JAGUAR'>94</content>
+		<content id='KM_VIDEO_JUMP'>68</content>
+		<content id='KM_VIDEO_JUMP2'>69</content>
+		<content id='KM_VIDEO_LIONACC'>93</content>
+		<content id='KM_VIDEO_LONDRES'>90</content>
+		<content id='KM_VIDEO_MONTE'>91</content>
+		<content id='KM_VIDEO_ORANOUTAN'>92</content>
+		<content id='KM_VIDEO_PAR'>92</content>
+		<content id='KM_VIDEO_PARKING'>95</content>
+		<content id='KM_VIDEO_POISSON1'>98</content>
+		<content id='KM_VIDEO_POISSON2'>99</content>
+		<content id='KM_VIDEO_POISSON5'>99</content>
+		<content id='KM_VIDEO_POPEY'>100</content>
+		<content id='KM_VIDEO_RHINO'>99</content>
+		<content id='KM_VIDEO_SCHUMI'>95</content>
+		<content id='KM_VIDEO_SINGE'>95</content>
+		<content id='KM_VIDEO_SKI'>95</content>
+		<content id='KM_VIDEO_TORTUE'>98</content>
+		<content id='KM_VIDEO_TROTTE'>96</content>
+		<content id='KM_VIDEO_YESSS'>95</content>
+		<content id='LAFETE_SK_01_V6'>94</content>
+		<content id='LAFETE_SK_02_V6'>93</content>
+		<content id='LECHAT_SK_V6'>93</content>
+		<content id='LEMAGASIN_SK_V6'>92</content>
+		<content id='MARIA01'>98</content>
+		<content id='MARIA02'>98</content>
+		<content id='MARIA03'>98</content>
+		<content id='MAURICE_SK_V6'>95</content>
+		<content id='MELINDA01'>98</content>
+		<content id='MICHELLE01'>92</content>
+		<content id='MOISSONNEUSE_SK_01_V6'>92</content>
+		<content id='MOISSONNEUSE_SK_02_V6'>92</content>
+	</mobileType>
+	<mobileType id="NEC401i">
+		<content id='1251_DS' size='114' sizepv='54' />
+		<content id='1977_DS' size='132' sizepv='69' />
+		<content id='36_DEGREES_DS' size='134' sizepv='40' />
+		<content id='4_COEURS' size='212' sizepv='63' />
+		<content id='5_9_1_MASTER_DS' size='124' sizepv='36' />
+		<content id='94_MASTER_DS' size='119' sizepv='34' />
+		<content id='A_CHAQUE_PAS_DS' size='156' sizepv='65' />
+		<content id='A_NOS_ACTES_MANQUES_DS' size='141' sizepv='36' />
+		<content id='AICHA_SING_MASTER_DS' size='116' sizepv='42' />
+		<content id='AKEYSFALL1_BMG' size='299' sizepv='100' />
+		<content id='AKEYSFALL2_BMG' size='300' sizepv='100' />
+		<content id='AKEYSNAME1_BMG' size='300' sizepv='100' />
+		<content id='AKEYSNAME2_BMG' size='298' sizepv='100' />
+		<content id='ALARME' size='250' sizepv='66' />
+		<content id='ALENA_RED' size='245' sizepv='74' />
+		<content id='ALHAPPY1_BMG' size='299' sizepv='98' />
+		<content id='ALHAPPY2_BMG' size='298' sizepv='99' />
+		<content id='ALICIAKEYS1_BMG' size='296' sizepv='99' />
+		<content id='ALICIAKEYS2_BMG' size='299' sizepv='99' />
+		<content id='ALISSA_EB13' size='284' sizepv='73' />
+		<content id='ANGELICA_BLK_PANTIES' size='246' sizepv='74' />
+		<content id='ANOTHER_BRICK_IN_THE_WALL_MASTER_DS' size='124' sizepv='42' />
+		<content id='AVRIL_BMG' size='260' sizepv='73' />
+		<content id='BABY_ONE_MORE_TIME_DS' size='124' sizepv='40' />
+		<content id='BEHIND_BLUE_EYES_DS' size='138' sizepv='31' />
+		<content id='BELLY_DANCE_DS' size='105' sizepv='27' />
+		<content id='BEST_IN_ME_DS' size='149' sizepv='42' />
+		<content id='BLONDE_SM' size='298' sizepv='97' />
+		<content id='BMG_1977_1' size='299' sizepv='98' />
+		<content id='BMG_1977_2' size='300' sizepv='98' />
+		<content id='BMG_1977_3' size='296' sizepv='97' />
+		<content id='BMG_1977_4' size='294' sizepv='99' />
+		<content id='BMG_GARDE_MOI_2' size='293' sizepv='97' />
+		<content id='BMG_GARDE_MOI_3' size='299' sizepv='97' />
+		<content id='BMG_GARDE_MOI_4' size='297' sizepv='99' />
+		<content id='BMG_GARDE_MOI_5' size='299' sizepv='99' />
+		<content id='BOIING1' size='300' sizepv='99' />
+		<content id='BOMBASTIC_LOVE_DS' size='123' sizepv='34' />
+		<content id='BOOM_BOOM_DS' size='106' sizepv='37' />
+		<content id='BOOOGIE' size='299' sizepv='99' />
+		<content id='BORN_TO_MAKE_YOU_HAPPY_DS' size='124' sizepv='39' />
+		<content id='BRAVE_NEW_GIRL_DS' size='109' sizepv='33' />
+		<content id='BREAKIN_DS' size='141' sizepv='43' />
+		<content id='BREATHE_EASY_MASTER_DS' size='148' sizepv='40' />
+		<content id='BREATHE_EXTENDED_DS' size='136' sizepv='37' />
+		<content id='BREATHE_ON_ME_DS' size='107' sizepv='32' />
+		<content id='BRING_BACK_MY_HAPPINESS_DS' size='162' sizepv='39' />
+		<content id='BRITNEY_BMG' size='290' sizepv='60' />
+		<content id='BRITNEY_EB13' size='272' sizepv='86' />
+		<content id='BRITNEY1_BMG' size='299' sizepv='99' />
+		<content id='BRITNEY2_BMG' size='296' sizepv='99' />
+		<content id='BRUISE_PRISTINE_DS' size='139' sizepv='39' />
+		<content id='C_EST_QUAND_LE_BONHEUR_MASTER_DS' size='115' sizepv='34' />
+		<content id='CAGUILERA1_BMG' size='297' sizepv='97' />
+		<content id='CAGUILERA2_BMG' size='297' sizepv='99' />
+		<content id='CALIFORNIA_MASTER_DS' size='115' sizepv='34' />
+		<content id='CAN_T_HOLD_US_DOWN_DS' size='175' sizepv='58' />
+		<content id='CARPE_DIEM_MASTER_DS' size='122' sizepv='36' />
+		<content id='CATCHEUR' size='299' sizepv='98' />
+		<content id='CELEBRER_LA_VIE_DS' size='141' sizepv='43' />
+		<content id='CHADIRRTY1_BMG' size='298' sizepv='99' />
+		<content id='CHADIRRTY2_BMG' size='299' sizepv='100' />
+		<content id='CHARME' size='294' sizepv='98' />
+		<content id='CHARME1' size='259' sizepv='81' />
+		<content id='CHARME2' size='260' sizepv='84' />
+		<content id='CHARME3' size='257' sizepv='80' />
+		<content id='CHASSE_COUR' size='259' sizepv='67' />
+		<content id='CHERRY_BLOSSOM_GIRL_MASTER_DS' size='99' sizepv='43' />
+		<content id='CHIRURGIEN' size='269' sizepv='69' />
+		<content id='CHOCOLATE_MASTER_DS' size='96' sizepv='43' />
+		<content id='CIERA_BMG' size='299' sizepv='99' />
+		<content id='COME_ON_BABY_DS' size='146' sizepv='44' />
+		<content id='CONFESSIONS_PART_II_DS' size='162' sizepv='59' />
+		<content id='COREY_NASTY' size='252' sizepv='82' />
+		<content id='CRANE_TREMPO' size='240' sizepv='70' />
+		<content id='CRANE_WAZAA' size='259' sizepv='65' />
+		<content id='CRANEFUCK_AGI_V24' size='161' sizepv='99' />
+		<content id='CRI_DU_CHIEN' size='189' sizepv='49' />
+		<content id='DA_HOOLA_DS' size='143' sizepv='37' />
+		<content id='DECROCHE' size='294' sizepv='98' />
+		<content id='DELISI' size='260' sizepv='73' />
+		<content id='DENTISTE' size='300' sizepv='99' />
+		<content id='DIDO_BMG' size='263' sizepv='74' />
+		<content id='DIDO1_BMG' size='297' sizepv='99' />
+		<content id='DIDO2_BMG' size='298' sizepv='99' />
+		<content id='DIDOSAND1_BMG' size='298' sizepv='99' />
+		<content id='DJ_DS' size='141' sizepv='33' />
+		<content id='DOG_ROBOT10' size='297' sizepv='98' />
+		<content id='DOG_ROBOT4' size='299' sizepv='99' />
+		<content id='DOG_ROBOT5' size='298' sizepv='97' />
+		<content id='DOG_ROBOT6' size='298' sizepv='99' />
+		<content id='DOG_ROBOT7' size='298' sizepv='98' />
+		<content id='DOG_ROBOT8' size='299' sizepv='100' />
+		<content id='DOG_ROBOT9' size='299' sizepv='99' />
+		<content id='DON_T_LEAVE_HOME_DS' size='106' sizepv='33' />
+		<content id='DON_T_LOOK_BACK_FEATURING_DS' size='137' sizepv='36' />
+		<content id='DON_T_TELL_ME_DS' size='159' sizepv='54' />
+		<content id='DRAGOSTEA_DIN_TEI_DS' size='177' sizepv='58' />
+		<content id='EAMON1_BMG' size='297' sizepv='97' />
+		<content id='EAMON2_BMG' size='295' sizepv='94' />
+		<content id='EARLY_MORNIN_DS' size='118' sizepv='34' />
+		<content id='ENFIN_DS' size='166' sizepv='67' />
+		<content id='ETRE_UNE_FEMME_DS' size='181' sizepv='56' />
+		<content id='EVASION_MASTER_DS' size='109' sizepv='32' />
+		<content id='EVERY_YOU_EVERY_ME_MASTER_DS' size='123' sizepv='33' />
+		<content id='EVERYTIME_DS' size='114' sizepv='33' />
+		<content id='EVERYTIME_YOU_TOUCH_ME_DS' size='125' sizepv='47' />
+		<content id='FAIS_PASSER_LE_SON_DS' size='170' sizepv='44' />
+		<content id='FEEL_MASTER_DS' size='112' sizepv='35' />
+		<content id='FEELING_SO_REAL_DS' size='150' sizepv='39' />
+		<content id='FELL_IN_LOVE_WITH_A_BOY_MASTER_DS' size='118' sizepv='35' />
+		<content id='FILLE_SMACK' size='240' sizepv='61' />
+		<content id='FLEURJTM' size='297' sizepv='99' />
+		<content id='FLEURPLV' size='298' sizepv='98' />
+		<content id='FLIC' size='249' sizepv='61' />
+		<content id='FREEDOM_FIGHTERS_MASTER_DS' size='123' sizepv='40' />
+		<content id='FRIZZ_DANSE_MMC_V26' size='299' sizepv='99' />
+		<content id='FUCK_IT_DS' size='153' sizepv='53' />
+		<content id='GARDE_MOI_DS' size='154' sizepv='55' />
+		<content id='GET_IT_ON_MASTER_DS' size='120' sizepv='36' />
+		<content id='GET_UP_MASTER_DS' size='93' sizepv='30' />
+		<content id='GITANE' size='239' sizepv='60' />
+		<content id='GUERRIERO' size='276' sizepv='82' />
+		<content id='HAPPYDANCE' size='300' sizepv='99' />
+		<content id='HEY_YA_DS' size='158' sizepv='63' />
+		<content id='HOLIDAY_INN_MASTER_DS' size='105' sizepv='29' />
+		<content id='HYPERCRAZY' size='299' sizepv='99' />
+		<content id='I_LIKE_THAT_MASTER_DS' size='95' sizepv='38' />
+		<content id='I_LOVE_ROCK_N_ROLL_DS' size='92' sizepv='36' />
+		<content id='I_M_A_SLAVE_4_U_DS' size='110' sizepv='34' />
+		<content id='I_WISH_IT_COULD_BE_CHRISTMAS_EVERYDAY_DS' size='136' sizepv='31' />
+		<content id='IF_YOU_LEAVE_ME_NOW_DS' size='116' sizepv='26' />
+		<content id='INDIEN' size='246' sizepv='70' />
+		<content id='INDIENNE_TRAV' size='247' sizepv='67' />
+		<content id='INFIRMIERE' size='299' sizepv='98' />
+		<content id='INTO_THE_BLUE_DS' size='158' sizepv='44' />
+		<content id='ISHAM' size='268' sizepv='82' />
+		<content id='J_AIME_CA_MASTER_DS' size='105' sizepv='43' />
+		<content id='J_AVANCE_EN_CHANTANT_DS' size='145' sizepv='39' />
+		<content id='J_AVANCE_EN_CHANTANT_MASTER_DS' size='100' sizepv='34' />
+		<content id='JAMES_BOND_THEME_MRV_DS' size='134' sizepv='44' />
+		<content id='JB_GIRLS' size='237' sizepv='75' />
+		<content id='JE_L_AI_VU_DS' size='159' sizepv='60' />
+		<content id='JE_M_EN_FOUTRE_DS' size='185' sizepv='59' />
+		<content id='JE_N_ENTENDS_RIEN_DS' size='174' sizepv='61' />
+		<content id='JEANMUIR' size='242' sizepv='75' />
+		<content id='JONATHANSAUNDER' size='270' sizepv='73' />
+		<content id='JOYEUX_ANNIVERSAIRE' size='297' sizepv='98' />
+		<content id='JTROCK1_BMG' size='299' sizepv='97' />
+		<content id='JTROCK2_BMG' size='299' sizepv='99' />
+		<content id='JUMELLES_VRGT' size='239' sizepv='62' />
+		<content id='JUMENT' size='254' sizepv='63' />
+		<content id='KING_OF_THE_DANCEHALL_MASTER_DS' size='94' sizepv='39' />
+		<content id='KISS_OF_LIFE_MASTER_DS' size='91' sizepv='34' />
+		<content id='KM_DRAGONITO' size='271' sizepv='99' />
+		<content id='KOOKOO' size='300' sizepv='99' />
+		<content id='LA_FEMME_AUX_MILLE_AMANTS_DS' size='140' sizepv='37' />
+		<content id='LAMORT' size='299' sizepv='99' />
+		<content id='LAS_VEGAS_1' size='260' sizepv='76' />
+		<content id='LAS_VEGAS_3' size='276' sizepv='66' />
+		<content id='LAS_VEGAS_4' size='240' sizepv='70' />
+		<content id='LAUGHING_FOLK2' size='245' sizepv='63' />
+		<content id='LAVIGNE1_BMG' size='299' sizepv='96' />
+		<content id='LAVIGNE2_BMG' size='299' sizepv='99' />
+		<content id='LE_FRERE_QUE_J_AI_CHOISI_DS' size='150' sizepv='39' />
+		<content id='LE_LOUP' size='239' sizepv='60' />
+		<content id='LE_PRIX_POUR_T_AIMER_DS' size='105' sizepv='44' />
+		<content id='LE_SON_QUI_TUE_MASTER_DS' size='89' sizepv='31' />
+		<content id='LE_SUCCES_REND_CON_DS' size='181' sizepv='58' />
+		<content id='LE_TEMPS_LE_HEROS_DS' size='167' sizepv='62' />
+		<content id='LEARN_CHINESE_DS' size='129' sizepv='44' />
+		<content id='LES_PASSE_TEMPS_DS' size='142' sizepv='39' />
+		<content id='LES_TROIS_1_EB13' size='291' sizepv='75' />
+		<content id='LES_TROIS_2_EB13' size='286' sizepv='77' />
+		<content id='LIFE_FOR_RENT_DS' size='120' sizepv='47' />
+		<content id='LOLA_S_THEME_MASTER_DS' size='89' sizepv='41' />
+		<content id='LOLITA' size='247' sizepv='62' />
+		<content id='LOVE_AT_FIRST_SIGHT_DS' size='142' sizepv='43' />
+		<content id='LOVE_CAN_DAMAGE_YOUR_HEALTH_DS' size='130' sizepv='32' />
+		<content id='LUCIDE_DS' size='123' sizepv='39' />
+		<content id='MA_MELODIE_DS' size='138' sizepv='35' />
+		<content id='MA_VIE_DEVANT_TOI_DS' size='185' sizepv='64' />
+		<content id='MANGA_INDE_XM_V21' size='297' sizepv='98' />
+		<content id='MAROON2_BMG' size='294' sizepv='99' />
+		<content id='ME_AGAINST_THE_MUSIC_DS' size='124' sizepv='35' />
+		<content id='MI_COLEGA_DE_SIEMPRE_DS' size='145' sizepv='28' />
+		<content id='MIAOU' size='299' sizepv='98' />
+		<content id='MILKSHAKE_MASTER_DS' size='124' sizepv='28' />
+		<content id='MON_COEUR' size='263' sizepv='71' />
+		<content id='MORVE' size='300' sizepv='98' />
+		<content id='NBEDING_BMG' size='299' sizepv='100' />
+		<content id='NC_DV_V24' size='292' sizepv='100' />
+		<content id='NC_DV2_V24' size='250' sizepv='99' />
+		<content id='NC_DV3_V24' size='273' sizepv='100' />
+		<content id='NC_DV4_V24' size='137' sizepv='97' />
+		<content id='NC_DV5_V24' size='223' sizepv='97' />
+		<content id='NC_DV6_V24' size='255' sizepv='100' />
+		<content id='ON_PARDONNE_DS' size='98' sizepv='39' />
+		<content id='ONE_CALL_AWAY_MASTER_DS' size='123' sizepv='39' />
+		<content id='OOPS_I_DID_IT_AGAIN_DS' size='112' sizepv='36' />
+		<content id='OTHEYSKENS' size='238' sizepv='73' />
+		<content id='OUH_LA_LA_LA_DS' size='164' sizepv='67' />
+		<content id='OUTCAST_BMG' size='296' sizepv='75' />
+		<content id='OUTCAST1_BMG' size='298' sizepv='100' />
+		<content id='OUTCAST2_BMG' size='297' sizepv='100' />
+		<content id='OUTRAGEOUS_DS' size='116' sizepv='42' />
+		<content id='OVERPROTECTED_DS' size='122' sizepv='36' />
+		<content id='PARCE_QUE_C_EST_TOI_MASTER_DS' size='114' sizepv='38' />
+		<content id='PAUL_COSTELLOE' size='253' sizepv='78' />
+		<content id='PENSONS_A_L_AVENIR_DS' size='139' sizepv='33' />
+		<content id='PETIT_FRERE_MASTER_DS' size='92' sizepv='33' />
+		<content id='PINK_BMG' size='300' sizepv='100' />
+		<content id='PINK2_BMG' size='299' sizepv='98' />
+		<content id='PINK3_BMG' size='300' sizepv='100' />
+		<content id='PINKANI_BMG' size='247' sizepv='68' />
+		<content id='PINKPILL1_BMG' size='296' sizepv='97' />
+		<content id='PINKPILL2_BMG' size='298' sizepv='97' />
+		<content id='PINKPILL3_BMG' size='294' sizepv='99' />
+		<content id='PLEASE_STAY_DS' size='141' sizepv='36' />
+		<content id='POLINA_BLACK' size='251' sizepv='72' />
+		<content id='PROPAGANDA_DS' size='121' sizepv='39' />
+		<content id='PROUTRENNE' size='298' sizepv='99' />
+		<content id='PURE_MORNING_MASTER_DS' size='123' sizepv='39' />
+		<content id='RADIO_MASTER_DS' size='123' sizepv='31' />
+		<content id='RED_BLOODED_WOMAN_DS' size='141' sizepv='35' />
+		<content id='REGARDE_DS' size='141' sizepv='33' />
+		<content id='REGGAE_NIGHT_DS' size='168' sizepv='66' />
+		<content id='RESTER_FEMME_MASTER_DS' size='108' sizepv='42' />
+		<content id='RGT_ANGE' size='300' sizepv='99' />
+		<content id='RGT_BBONNEANNE' size='298' sizepv='99' />
+		<content id='RGT_BEBE' size='299' sizepv='99' />
+		<content id='RGT_BIKINI' size='295' sizepv='97' />
+		<content id='RGT_BONHOMME' size='298' sizepv='99' />
+		<content id='RGT_BORED' size='297' sizepv='100' />
+		<content id='RGT_CANARD' size='299' sizepv='96' />
+		<content id='RGT_COQ' size='300' sizepv='99' />
+		<content id='RGT_COURSE1' size='297' sizepv='99' />
+		<content id='RGT_COURSE2' size='300' sizepv='99' />
+		<content id='RGT_COURSE3' size='296' sizepv='99' />
+		<content id='RGT_COURSE4' size='299' sizepv='99' />
+		<content id='RGT_COVER1' size='299' sizepv='98' />
+		<content id='RGT_DANCE' size='300' sizepv='99' />
+		<content id='RGT_DISCO' size='297' sizepv='99' />
+		<content id='RGT_DJ' size='300' sizepv='99' />
+		<content id='RGT_FILLE_TUNING1' size='300' sizepv='99' />
+		<content id='RGT_FLEUR' size='297' sizepv='99' />
+		<content id='RGT_LABYRINTH2' size='298' sizepv='99' />
+		<content id='RGT_LABYRINTH3' size='298' sizepv='99' />
+		<content id='RGT_LABYRINTH4' size='298' sizepv='95' />
+		<content id='RGT_MAISON' size='292' sizepv='99' />
+		<content id='RGT_MOUCHE' size='298' sizepv='96' />
+		<content id='RGT_MOUSTIQUE' size='289' sizepv='99' />
+		<content id='RGT_NOUNOURS2' size='298' sizepv='95' />
+		<content id='RGT_PEACE' size='233' sizepv='62' />
+		<content id='RGT_RIRE' size='299' sizepv='99' />
+		<content id='RGT_TUNING_FESSE' size='295' sizepv='98' />
+		<content id='RGT_VIDEO01_DEF_HQ' size='297' sizepv='99' />
+		<content id='RGT_VIDEO02_DEF_HQ' size='300' sizepv='99' />
+		<content id='RGT_VIDEO03_DEF_HQ' size='300' sizepv='98' />
+		<content id='RIGHT_THURR_MASTER_DS' size='89' sizepv='34' />
+		<content id='RKTHOING1_BMG' size='298' sizepv='98' />
+		<content id='RKTHOING2_BMG' size='293' sizepv='99' />
+		<content id='RKTHOING3_BMG' size='291' sizepv='99' />
+		<content id='RONITZIKHA' size='243' sizepv='82' />
+		<content id='ROT_DE_NOUNOURS' size='207' sizepv='50' />
+		<content id='SABRINA_PURPLE' size='233' sizepv='71' />
+		<content id='SAND_IN_MY_SHOES_DS' size='174' sizepv='57' />
+		<content id='SASSBIDE' size='270' sizepv='80' />
+		<content id='SATURDAY_NIGHT_MASTER_DS' size='88' sizepv='30' />
+		<content id='SCREEN_PUNCH' size='197' sizepv='56' />
+		<content id='SHADOW_DS' size='124' sizepv='43' />
+		<content id='SHANNEN_EB13' size='274' sizepv='67' />
+		<content id='SHE_S_THE_ONE_MASTER_DS' size='123' sizepv='42' />
+		<content id='SHOWDOWN_DS' size='106' sizepv='39' />
+		<content id='SI_JE_REVIENS_DS' size='121' sizepv='63' />
+		<content id='SIENTELO_DS' size='111' sizepv='30' />
+		<content id='SMILE_DS' size='130' sizepv='39' />
+		<content id='SOMETIMES_DS' size='90' sizepv='38' />
+		<content id='STAY_MASTER_DS' size='123' sizepv='34' />
+		<content id='STEEVE_EB13' size='255' sizepv='67' />
+		<content id='STEEVEANI_BMG' size='250' sizepv='85' />
+		<content id='STELLA_DS' size='176' sizepv='69' />
+		<content id='STOP_DS' size='108' sizepv='31' />
+		<content id='STOP_RUNNING_AWAY_FEATURING_DS' size='166' sizepv='39' />
+		<content id='STRIP_TEASE' size='253' sizepv='67' />
+		<content id='STRIPNOEL2' size='299' sizepv='99' />
+		<content id='STRONGER_DS' size='113' sizepv='43' />
+		<content id='SUPER_DUPER_LOVE_MASTER_DS' size='102' sizepv='34' />
+		<content id='SURFER_VRGT' size='249' sizepv='72' />
+		<content id='SURPRISE_NOUNOURS' size='263' sizepv='55' />
+		<content id='TANGLED_UP_IN_ME_DS' size='112' sizepv='36' />
+		<content id='TANT_PIS_DS' size='166' sizepv='51' />
+		<content id='TASTE_IN_MEN_DS' size='146' sizepv='35' />
+		<content id='TEENAGE_ANGST_DS' size='138' sizepv='31' />
+		<content id='THANK_YOU_SJ_MASTER_DS' size='111' sizepv='32' />
+		<content id='THE_BITTER_END_MASTER_DS' size='122' sizepv='34' />
+		<content id='THE_HOOK_UP_DS' size='118' sizepv='38' />
+		<content id='THE_WORLD_IS_MINE_MASTER_DS' size='117' sizepv='30' />
+		<content id='THIS_LOVE_DS' size='168' sizepv='55' />
+		<content id='THIS_PICTURE_MASTER_DS' size='113' sizepv='28' />
+		<content id='TIFFANY_BLUE' size='241' sizepv='70' />
+		<content id='TIME_MASTER_DS' size='124' sizepv='34' />
+		<content id='TOUCH_OF_MY_HAND_DS' size='110' sizepv='29' />
+		<content id='TOUJOURS_MASTER_DS' size='103' sizepv='32' />
+		<content id='TOUT_ENVOYER_EN_L_AIR_DS' size='176' sizepv='60' />
+		<content id='TOXIC_DS' size='113' sizepv='43' />
+		<content id='TRAV' size='248' sizepv='71' />
+		<content id='TRAV_CHIEN' size='300' sizepv='99' />
+		<content id='TRAV_CHIEN_2' size='246' sizepv='74' />
+		<content id='TRAV_JENNY' size='295' sizepv='98' />
+		<content id='TRONCHE_ECRASEE' size='246' sizepv='71' />
+		<content id='TUNING_CHARME1' size='290' sizepv='98' />
+		<content id='TUNING_CHARME2' size='289' sizepv='98' />
+		<content id='TUNING1' size='300' sizepv='98' />
+		<content id='TUNING4' size='298' sizepv='100' />
+		<content id='TVFM_HIPPO' size='299' sizepv='99' />
+		<content id='TVFM_LEMURIENS' size='297' sizepv='98' />
+		<content id='UN_PEU_DE_NOUS_DEUX_DS' size='156' sizepv='62' />
+		<content id='USHER_EB13' size='267' sizepv='62' />
+		<content id='USHERBURN_BMG' size='300' sizepv='99' />
+		<content id='USHERCONF1_BMG' size='293' sizepv='97' />
+		<content id='USHERCONF2_BMG' size='296' sizepv='98' />
+		<content id='USHERCONF3_BMG' size='297' sizepv='98' />
+		<content id='USHERYEAH1_BMG' size='295' sizepv='99' />
+		<content id='USHERYEAH2_BMG' size='298' sizepv='94' />
+		<content id='VAMPIRE' size='248' sizepv='66' />
+		<content id='VENUS_MASTER_DS' size='120' sizepv='30' />
+		<content id='VOMI' size='300' sizepv='99' />
+		<content id='WHAT_AM_I_TO_YOU_MASTER_DS' size='115' sizepv='33' />
+		<content id='WHEN_I_REACH_FOR_MY_REVOLVER_DS' size='138' sizepv='47' />
+		<content id='WITHOUT_YOU_I_M_NOTHING_MASTER_DS' size='103' sizepv='37' />
+		<content id='YOU_AND_ME_BUBBLIN_MASTER_DS' size='89' sizepv='32' />
+		<content id='YOU_CAN_T_BLAME_IT_ON_ANYBODY_DS' size='138' sizepv='43' />
+		<content id='YOU_DON_T_CARE_ABOUT_US_MASTER_DS' size='114' sizepv='43' />
+		<content id='YOU_DRIVE_ME_CRAZY_DS' size='118' sizepv='40' />
+		<content id='YOU_HAD_ME_MASTER_DS' size='121' sizepv='32' />
+		<content id='ZE_MANGAS' size='259' sizepv='71' />
+		<content id='ZIAV_CASSE_MMC_V26' size='298' sizepv='99' />
+		<content id='ZONE_INTERNATIONALE_MASTER_DS' size='89' sizepv='32' />
+		<content id='AKEYSFALL3_BMG' size='204' sizepv='100' />
+		<content id='ANIVCOTILLIONS_MMC_V25' size='223' sizepv='99' />
+		<content id='ANOTHER_BIRTHDAY' size='173' sizepv='67' />
+		<content id='AVECALDEACRIS' size='216' sizepv='73' />
+		<content id='BASIC' size='270' sizepv='97' />
+		<content id='BASIC2' size='297' sizepv='99' />
+		<content id='BASIC3' size='298' sizepv='99' />
+		<content id='BEEF' size='188' sizepv='81' />
+		<content id='BIGKISS_SEQ' size='300' sizepv='99' />
+		<content id='BOARD_AIDSKATE' size='162' sizepv='82' />
+		<content id='BOARD_AIDSNOW' size='171' sizepv='82' />
+		<content id='BOARD_B_LOOPERS' size='146' sizepv='81' />
+		<content id='BONNE_ANNEE' size='107' sizepv='70' />
+		<content id='BONNEFETEMAMAN' size='207' sizepv='123' />
+		<content id='BOULEDENEIGE' size='300' sizepv='99' />
+		<content id='BOULEDENEIGE_SEQ' size='300' sizepv='99' />
+		<content id='BULLFIGHT' size='168' sizepv='72' />
+		<content id='CENSURE' size='159' sizepv='111' />
+		<content id='CHA_DIRTY_BMG' size='299' sizepv='100' />
+		<content id='CHATCOURSE_MMC_V25' size='234' sizepv='98' />
+		<content id='CHATMIAULE_MMC_V25' size='243' sizepv='100' />
+		<content id='CHIENPENSE_MMC_V25' size='297' sizepv='99' />
+		<content id='COEUR_SEQ' size='177' sizepv='99' />
+		<content id='COLORYOU' size='284' sizepv='129' />
+		<content id='COMMECA' size='146' sizepv='129' />
+		<content id='CONGRATS' size='144' sizepv='73' />
+		<content id='COVERI01' size='203' sizepv='78' />
+		<content id='DAVID_ISAACSON' size='121' sizepv='78' />
+		<content id='DEBRECCO' size='216' sizepv='81' />
+		<content id='DIABLESSE' size='299' sizepv='99' />
+		<content id='DIABLESSE_SEQ' size='299' sizepv='99' />
+		<content id='DIDOSAND2_BMG' size='298' sizepv='100' />
+		<content id='DIRT_BIKE_COMPE' size='139' sizepv='83' />
+		<content id='DISCOS' size='198' sizepv='198' />
+		<content id='FDE_ANGRY' size='278' sizepv='98' />
+		<content id='FDE_BIERE' size='88' sizepv='57' />
+		<content id='FDE_BIGKISS' size='300' sizepv='99' />
+		<content id='FDE_BUSTED' size='297' sizepv='98' />
+		<content id='FDE_CADEAU' size='234' sizepv='125' />
+		<content id='FDE_CADEAU2' size='222' sizepv='118' />
+		<content id='FDE_CLOWN' size='267' sizepv='107' />
+		<content id='FDE_COEUR' size='177' sizepv='99' />
+		<content id='FDE_FANTOME' size='259' sizepv='135' />
+		<content id='FDE_HAPPY' size='281' sizepv='99' />
+		<content id='FDE_HAPPY1' size='181' sizepv='96' />
+		<content id='FDE_JOYEUX_ANNIVERSAIRE' size='107' sizepv='69' />
+		<content id='FDE_MONOEIL' size='264' sizepv='95' />
+		<content id='FDE_NOUNOURS' size='201' sizepv='99' />
+		<content id='FDE_NOUNOURS3' size='179' sizepv='99' />
+		<content id='FDE_NOUNOURS4' size='166' sizepv='98' />
+		<content id='FDE_OURS' size='162' sizepv='99' />
+		<content id='FDE_POURTOI' size='265' sizepv='104' />
+		<content id='FDE_POUSSIN' size='213' sizepv='98' />
+		<content id='FDE_POUSSIN2' size='95' sizepv='78' />
+		<content id='FDE_POUSSIN3' size='210' sizepv='99' />
+		<content id='FDE_SAD' size='280' sizepv='99' />
+		<content id='FDE_SEXY' size='92' sizepv='68' />
+		<content id='FDE_SHAME' size='231' sizepv='99' />
+		<content id='FDE_SMILE' size='297' sizepv='98' />
+		<content id='FDE_SMILEY' size='298' sizepv='99' />
+		<content id='FDE_SORCIERE' size='299' sizepv='73' />
+		<content id='FDE_TETE' size='70' sizepv='67' />
+		<content id='FDE_TOILET' size='292' sizepv='97' />
+		<content id='FDE_VACHE' size='81' sizepv='81' />
+		<content id='FDE_WO10ANIMATED' size='295' sizepv='99' />
+		<content id='FDE_WO12ANIMATED' size='296' sizepv='100' />
+		<content id='FDE_WO13ANIMATED' size='296' sizepv='100' />
+		<content id='FDE_WO14ANIMATED' size='286' sizepv='97' />
+		<content id='FDE_WO15ANIMATED' size='294' sizepv='95' />
+		<content id='FDE_WO17ANIMATED' size='278' sizepv='100' />
+		<content id='FDE_WO18ANIMATED' size='285' sizepv='100' />
+		<content id='FDE_WO19ANIMATED' size='295' sizepv='100' />
+		<content id='FDE_WO1ANIMATED' size='297' sizepv='95' />
+		<content id='FDE_WO20ANIMATED' size='299' sizepv='98' />
+		<content id='FDE_WO21ANIMATED' size='289' sizepv='100' />
+		<content id='FDE_WO22ANIMATED' size='241' sizepv='97' />
+		<content id='FDE_WO26ANIMATED' size='300' sizepv='98' />
+		<content id='FDE_WO27ANIMATED' size='290' sizepv='97' />
+		<content id='FDE_WO28ANIMATED' size='297' sizepv='97' />
+		<content id='FDE_WO2ANIMATED' size='267' sizepv='98' />
+		<content id='FDE_WO30ANIMATED' size='297' sizepv='97' />
+		<content id='FDE_WO31ANIMATED' size='274' sizepv='94' />
+		<content id='FDE_WO32ANIMATED' size='292' sizepv='99' />
+		<content id='FDE_WO33ANIMATED' size='299' sizepv='100' />
+		<content id='FDE_WO34ANIMATED' size='300' sizepv='93' />
+		<content id='FDE_WO35ANIMATED' size='295' sizepv='95' />
+		<content id='FDE_WO38ANIMATED' size='294' sizepv='96' />
+		<content id='FDE_WO5ANIMATED' size='295' sizepv='95' />
+		<content id='FDE_WO6ANIMATED' size='299' sizepv='98' />
+		<content id='FDE_WO9ANIMATED' size='294' sizepv='94' />
+		<content id='FEMMESAOUL' size='245' sizepv='98' />
+		<content id='FEMMESAOUL_SEQ' size='245' sizepv='98' />
+		<content id='FEMOIRIRE' size='198' sizepv='125' />
+		<content id='FOLIMAN' size='294' sizepv='99' />
+		<content id='FOU' size='138' sizepv='53' />
+		<content id='FRANKY' size='255' sizepv='107' />
+		<content id='GRANDMERE' size='117' sizepv='103' />
+		<content id='HH' size='272' sizepv='99' />
+		<content id='HH_SEQ' size='272' sizepv='99' />
+		<content id='HH2' size='300' sizepv='98' />
+		<content id='HH2_SEQ' size='300' sizepv='98' />
+		<content id='HOMSOAUL' size='249' sizepv='99' />
+		<content id='HOMSOAUL_SEQ' size='249' sizepv='99' />
+		<content id='HYPO' size='200' sizepv='99' />
+		<content id='I_BEAT_YOU' size='95' sizepv='80' />
+		<content id='I_LOVE_YOU' size='183' sizepv='70' />
+		<content id='I_LOVE_YOU_HAIR' size='156' sizepv='65' />
+		<content id='I_MISS_YOU' size='181' sizepv='73' />
+		<content id='IM_WAITING2' size='82' sizepv='53' />
+		<content id='INDONESIA_SURF' size='121' sizepv='78' />
+		<content id='INESERED' size='220' sizepv='65' />
+		<content id='IT_S_A_BOY' size='139' sizepv='73' />
+		<content id='IT_S_A_GIRL' size='139' sizepv='67' />
+		<content id='JACKSON_HOLE' size='161' sizepv='69' />
+		<content id='JENAIDYEU' size='272' sizepv='97' />
+		<content id='JMACDONALD' size='239' sizepv='73' />
+		<content id='JOYEUSES_FETES' size='108' sizepv='68' />
+		<content id='JOYEUX_NOEL' size='108' sizepv='70' />
+		<content id='KAYAK' size='162' sizepv='77' />
+		<content id='KITE_BOARDING_2' size='142' sizepv='82' />
+		<content id='LETSBOWL' size='211' sizepv='78' />
+		<content id='LIZZY_WALKER' size='160' sizepv='74' />
+		<content id='LOVESTRUCK1' size='268' sizepv='99' />
+		<content id='LOVESTRUCK2' size='208' sizepv='91' />
+		<content id='MAGIC' size='188' sizepv='63' />
+		<content id='MARCJACOBS02' size='215' sizepv='77' />
+		<content id='MERCIPAPA' size='249' sizepv='112' />
+		<content id='MOMIE' size='223' sizepv='100' />
+		<content id='NIGHT_OUT' size='296' sizepv='96' />
+		<content id='NOUNOURBLANC' size='226' sizepv='109' />
+		<content id='OISEAU_MMC_V25' size='240' sizepv='100' />
+		<content id='OUF' size='251' sizepv='107' />
+		<content id='OURS_SEQ' size='162' sizepv='99' />
+		<content id='OURSGENT' size='217' sizepv='102' />
+		<content id='PC_BURST2' size='81' sizepv='54' />
+		<content id='PINK4_BMG' size='263' sizepv='99' />
+		<content id='PIPI' size='275' sizepv='104' />
+		<content id='POURTOIMAMAN' size='184' sizepv='110' />
+		<content id='ROCK_ON_GIRL2' size='183' sizepv='128' />
+		<content id='RUMOR' size='154' sizepv='77' />
+		<content id='SABRINAPURPLE' size='205' sizepv='60' />
+		<content id='SANTOI' size='251' sizepv='106' />
+		<content id='SEXY' size='164' sizepv='99' />
+		<content id='SEXY_KISS2' size='72' sizepv='54' />
+		<content id='SEXY_SEQ' size='164' sizepv='99' />
+		<content id='SHAKE_IT_BABY' size='160' sizepv='66' />
+		<content id='SKATE_BOARD_7' size='144' sizepv='82' />
+		<content id='SKATE_HALF_PIPE' size='148' sizepv='83' />
+		<content id='SKATE_WIPE_OUT' size='133' sizepv='82' />
+		<content id='SKATEBOARDSS' size='118' sizepv='84' />
+		<content id='SKATING_COMPE_2' size='141' sizepv='83' />
+		<content id='SKATING_COMPE3' size='150' sizepv='82' />
+		<content id='SKATINGCOMP' size='116' sizepv='66' />
+		<content id='SKIING_WASATCH' size='138' sizepv='71' />
+		<content id='SMILE' size='154' sizepv='76' />
+		<content id='SMILEY_SEQ' size='298' sizepv='99' />
+		<content id='SNOW_FALLS' size='165' sizepv='80' />
+		<content id='SNOWBOARD' size='167' sizepv='76' />
+		<content id='SNOWBOARD_7' size='137' sizepv='76' />
+		<content id='SNOWBOARD_WIPE_OUT' size='159' sizepv='82' />
+		<content id='SPLISH_SPLASH' size='162' sizepv='79' />
+		<content id='SUCEMONPIED' size='161' sizepv='96' />
+		<content id='SURRENDER_FLAG2' size='211' sizepv='127' />
+		<content id='TALENTED' size='121' sizepv='69' />
+		<content id='THUMBS_UP2' size='120' sizepv='118' />
+		<content id='TIFFANY_BLACK' size='174' sizepv='82' />
+		<content id='TIMONSTRE' size='209' sizepv='136' />
+		<content id='TORRY_RED' size='166' sizepv='69' />
+		<content id='VERONICA_BLUE' size='167' sizepv='69' />
+		<content id='VERONICABLUE' size='168' sizepv='70' />
+		<content id='VERONICAWINDOW' size='218' sizepv='72' />
+		<content id='VOODOO' size='136' sizepv='125' />
+		<content id='VWESTWOOD02' size='219' sizepv='73' />
+		<content id='WAKE_BOARD_3A' size='149' sizepv='85' />
+		<content id='WAKE_BOARDING_1A' size='148' sizepv='81' />
+		<content id='WAKE_BOARDING_1C' size='165' sizepv='83' />
+		<content id='WASATCH_SKI' size='132' sizepv='73' />
+		<content id='WO18ANIMATED_SEQ' size='285' sizepv='100' />
+		<content id='WO21ANIMATED_SEQ' size='289' sizepv='100' />
+		<content id='WO33ANIMATED_SEQ' size='299' sizepv='100' />
+	</mobileType>
+	<mobileType id="MITSUBISHIM430i">
+		<content id='AKEYSFALL1_BMG' size='258' sizepv='90' />
+		<content id='AKEYSFALL2_BMG' size='235' sizepv='71' />
+		<content id='AKEYSNAME1_BMG' size='256' sizepv='66' />
+		<content id='AKEYSNAME2_BMG' size='250' sizepv='86' />
+		<content id='ALARME' size='252' sizepv='67' />
+		<content id='ALENA_RED' size='206' sizepv='60' />
+		<content id='ALHAPPY1_BMG' size='284' sizepv='61' />
+		<content id='ALHAPPY2_BMG' size='237' sizepv='63' />
+		<content id='ALICIAKEYS1_BMG' size='281' sizepv='63' />
+		<content id='ALICIAKEYS2_BMG' size='255' sizepv='61' />
+		<content id='ALISSA_EB13' size='8' sizepv='72' />
+		<content id='ANGELICA_BLK_PANTIES' size='205' sizepv='60' />
+		<content id='BLONDE_SM' size='134' sizepv='57' />
+		<content id='BMG_1977_1' size='150' sizepv='63' />
+		<content id='BMG_1977_2' size='154' sizepv='59' />
+		<content id='BMG_1977_3' size='146' sizepv='58' />
+		<content id='BMG_1977_4' size='150' sizepv='65' />
+		<content id='BMG_GARDE_MOI_2' size='141' sizepv='68' />
+		<content id='BMG_GARDE_MOI_3' size='146' sizepv='68' />
+		<content id='BMG_GARDE_MOI_4' size='149' sizepv='72' />
+		<content id='BMG_GARDE_MOI_5' size='149' sizepv='67' />
+		<content id='BOIING1' size='195' sizepv='66' />
+		<content id='BOOOGIE' size='201' sizepv='60' />
+		<content id='BRITNEY_BMG' size='339' sizepv='87' />
+		<content id='BRITNEY1_BMG' size='239' sizepv='63' />
+		<content id='BRITNEY2_BMG' size='241' sizepv='60' />
+		<content id='CAGUILERA1_BMG' size='268' sizepv='63' />
+		<content id='CAGUILERA2_BMG' size='245' sizepv='62' />
+		<content id='CATCHEUR' size='135' sizepv='52' />
+		<content id='CHADIRRTY1_BMG' size='240' sizepv='67' />
+		<content id='CHADIRRTY2_BMG' size='248' sizepv='72' />
+		<content id='CHARME' size='149' sizepv='74' />
+		<content id='CHARME3' size='213' sizepv='65' />
+		<content id='CHASSE_COUR' size='259' sizepv='66' />
+		<content id='CHIRURGIEN' size='270' sizepv='66' />
+		<content id='CIERA_BMG' size='232' sizepv='90' />
+		<content id='CRANEFUCK_AGI_V24' size='62' sizepv='63' />
+		<content id='CRI_DU_CHIEN' size='7' sizepv='48' />
+		<content id='DECROCHE' size='167' sizepv='54' />
+		<content id='DELISI' size='215' sizepv='60' />
+		<content id='DENTISTE' size='145' sizepv='57' />
+		<content id='DIDO1_BMG' size='280' sizepv='63' />
+		<content id='DIDO2_BMG' size='264' sizepv='63' />
+		<content id='DIDOSAND1_BMG' size='266' sizepv='91' />
+		<content id='DOG_ROBOT10' size='122' sizepv='59' />
+		<content id='DOG_ROBOT4' size='112' sizepv='44' />
+		<content id='DOG_ROBOT5' size='198' sizepv='62' />
+		<content id='DOG_ROBOT6' size='107' sizepv='57' />
+		<content id='DOG_ROBOT7' size='92' sizepv='34' />
+		<content id='DOG_ROBOT8' size='111' sizepv='46' />
+		<content id='DOG_ROBOT9' size='150' sizepv='58' />
+		<content id='EAMON1_BMG' size='231' sizepv='54' />
+		<content id='EAMON2_BMG' size='245' sizepv='59' />
+		<content id='FILLE_SMACK' size='240' sizepv='61' />
+		<content id='FLEURJTM' size='205' sizepv='82' />
+		<content id='FLEURPLV' size='205' sizepv='97' />
+		<content id='FLIC' size='252' sizepv='61' />
+		<content id='FRIZZ_DANSE_MMC_V26' size='197' sizepv='80' />
+		<content id='GITANE' size='241' sizepv='60' />
+		<content id='HYPERCRAZY' size='232' sizepv='76' />
+		<content id='INDIEN' size='253' sizepv='67' />
+		<content id='INDIENNE_TRAV' size='246' sizepv='67' />
+		<content id='INFIRMIERE' size='148' sizepv='54' />
+		<content id='ISHAM' size='225' sizepv='64' />
+		<content id='JB_GIRLS' size='240' sizepv='74' />
+		<content id='JEANMUIR' size='208' sizepv='60' />
+		<content id='JONATHANSAUNDER' size='231' sizepv='57' />
+		<content id='JOYEUX_ANNIVERSAIRE' size='156' sizepv='58' />
+		<content id='JTROCK1_BMG' size='235' sizepv='63' />
+		<content id='JTROCK2_BMG' size='234' sizepv='63' />
+		<content id='JUMELLES_VRGT' size='241' sizepv='62' />
+		<content id='JUMENT' size='253' sizepv='63' />
+		<content id='KM_DRAGONITO' size='147' sizepv='62' />
+		<content id='KOOKOO' size='234' sizepv='64' />
+		<content id='LAMORT' size='228' sizepv='71' />
+		<content id='LAS_VEGAS_1' size='262' sizepv='74' />
+		<content id='LAS_VEGAS_3' size='276' sizepv='67' />
+		<content id='LAS_VEGAS_4' size='243' sizepv='63' />
+		<content id='LAUGHING_FOLK2' size='7' sizepv='65' />
+		<content id='LAVIGNE1_BMG' size='238' sizepv='55' />
+		<content id='LAVIGNE2_BMG' size='244' sizepv='62' />
+		<content id='LE_LOUP' size='241' sizepv='61' />
+		<content id='LES_TROIS_1_EB13' size='293' sizepv='69' />
+		<content id='LES_TROIS_2_EB13' size='293' sizepv='71' />
+		<content id='LOLITA' size='248' sizepv='62' />
+		<content id='MANGA_INDE_XM_V21' size='241' sizepv='60' />
+		<content id='MAROON2_BMG' size='240' sizepv='62' />
+		<content id='MIAOU' size='263' sizepv='96' />
+		<content id='MON_COEUR' size='265' sizepv='72' />
+		<content id='MORVE' size='149' sizepv='56' />
+		<content id='NBEDING_BMG' size='210' sizepv='79' />
+		<content id='NC_DV_V24' size='139' sizepv='64' />
+		<content id='NC_DV2_V24' size='127' sizepv='62' />
+		<content id='NC_DV3_V24' size='116' sizepv='63' />
+		<content id='NC_DV4_V24' size='74' sizepv='63' />
+		<content id='NC_DV5_V24' size='88' sizepv='63' />
+		<content id='NC_DV6_V24' size='110' sizepv='63' />
+		<content id='OTHEYSKENS' size='199' sizepv='59' />
+		<content id='OUTCAST1_BMG' size='241' sizepv='59' />
+		<content id='OUTCAST2_BMG' size='250' sizepv='58' />
+		<content id='PAUL_COSTELLOE' size='208' sizepv='59' />
+		<content id='PINK_BMG' size='243' sizepv='61' />
+		<content id='PINK2_BMG' size='261' sizepv='71' />
+		<content id='PINK3_BMG' size='246' sizepv='92' />
+		<content id='PINKPILL1_BMG' size='223' sizepv='61' />
+		<content id='PINKPILL2_BMG' size='231' sizepv='60' />
+		<content id='PINKPILL3_BMG' size='222' sizepv='59' />
+		<content id='POLINA_BLACK' size='212' sizepv='59' />
+		<content id='PROUTRENNE' size='212' sizepv='70' />
+		<content id='RGT_ANGE' size='228' sizepv='98' />
+		<content id='RGT_BBONNEANNE' size='237' sizepv='92' />
+		<content id='RGT_BEBE' size='221' sizepv='86' />
+		<content id='RGT_BIKINI' size='141' sizepv='59' />
+		<content id='RGT_BONHOMME' size='124' sizepv='55' />
+		<content id='RGT_BORED' size='130' sizepv='57' />
+		<content id='RGT_CANARD' size='224' sizepv='70' />
+		<content id='RGT_COQ' size='221' sizepv='100' />
+		<content id='RGT_COURSE1' size='226' sizepv='92' />
+		<content id='RGT_COURSE2' size='227' sizepv='84' />
+		<content id='RGT_COURSE3' size='136' sizepv='58' />
+		<content id='RGT_COURSE4' size='148' sizepv='58' />
+		<content id='RGT_COVER1' size='212' sizepv='100' />
+		<content id='RGT_DANCE' size='204' sizepv='77' />
+		<content id='RGT_DISCO' size='236' sizepv='93' />
+		<content id='RGT_DJ' size='205' sizepv='77' />
+		<content id='RGT_FILLE_TUNING1' size='225' sizepv='92' />
+		<content id='RGT_FLEUR' size='205' sizepv='82' />
+		<content id='RGT_LABYRINTH2' size='218' sizepv='81' />
+		<content id='RGT_LABYRINTH3' size='228' sizepv='75' />
+		<content id='RGT_LABYRINTH4' size='227' sizepv='99' />
+		<content id='RGT_MAISON' size='218' sizepv='97' />
+		<content id='RGT_MOUCHE' size='223' sizepv='89' />
+		<content id='RGT_MOUSTIQUE' size='219' sizepv='70' />
+		<content id='RGT_NOUNOURS2' size='152' sizepv='58' />
+		<content id='RGT_PEACE' size='234' sizepv='62' />
+		<content id='RGT_RIRE' size='213' sizepv='58' />
+		<content id='RGT_TUNING_FESSE' size='229' sizepv='79' />
+		<content id='RGT_VIDEO01_DEF_HQ' size='220' sizepv='80' />
+		<content id='RGT_VIDEO02_DEF_HQ' size='213' sizepv='72' />
+		<content id='RGT_VIDEO03_DEF_HQ' size='216' sizepv='70' />
+		<content id='RKTHOING1_BMG' size='245' sizepv='59' />
+		<content id='RKTHOING2_BMG' size='239' sizepv='63' />
+		<content id='RKTHOING3_BMG' size='260' sizepv='62' />
+		<content id='ROT_DE_NOUNOURS' size='207' sizepv='50' />
+		<content id='SASSBIDE' size='226' sizepv='61' />
+		<content id='SCREEN_PUNCH' size='199' sizepv='56' />
+		<content id='STEEVE_EB13' size='259' sizepv='66' />
+		<content id='STRIP_TEASE' size='255' sizepv='66' />
+		<content id='STRIPNOEL2' size='231' sizepv='71' />
+		<content id='SURFER_VRGT' size='253' sizepv='69' />
+		<content id='SURPRISE_NOUNOURS' size='263' sizepv='56' />
+		<content id='TIFFANY_BLUE' size='205' sizepv='57' />
+		<content id='TRAV' size='247' sizepv='68' />
+		<content id='TRAV_CHIEN' size='248' sizepv='71' />
+		<content id='TRAV_JENNY' size='151' sizepv='54' />
+		<content id='TRONCHE_ECRASEE' size='246' sizepv='67' />
+		<content id='TUNING_CHARME1' size='162' sizepv='58' />
+		<content id='TUNING_CHARME2' size='161' sizepv='62' />
+		<content id='TUNING1' size='145' sizepv='57' />
+		<content id='TUNING4' size='162' sizepv='57' />
+		<content id='USHER_EB13' size='272' sizepv='64' />
+		<content id='USHERBURN_BMG' size='244' sizepv='63' />
+		<content id='USHERCONF1_BMG' size='227' sizepv='61' />
+		<content id='USHERCONF2_BMG' size='218' sizepv='62' />
+		<content id='USHERCONF3_BMG' size='247' sizepv='59' />
+		<content id='USHERYEAH1_BMG' size='231' sizepv='62' />
+		<content id='USHERYEAH2_BMG' size='235' sizepv='60' />
+		<content id='VAMPIRE' size='248' sizepv='67' />
+		<content id='VOMI' size='235' sizepv='56' />
+		<content id='ZIAV_CASSE_MMC_V26' size='198' sizepv='63' />
+		
+		<content id='AKEYSFALL3_BMG' size='90' sizepv='91' />
+		<content id='ANIVCOTILLIONS_MMC_V25' size='76' sizepv='71' />
+		<content id='ANOTHER_BIRTHDAY' size='172' sizepv='66' />
+		<content id='AVECALDEACRIS' size='184' sizepv='61' />
+		<content id='BASIC' size='119' sizepv='62' />
+		<content id='BASIC2' size='120' sizepv='61' />
+		<content id='BASIC3' size='117' sizepv='56' />
+		<content id='BIGKISS_SEQ' size='130' sizepv='95' />
+		<content id='BOARD_AIDSNOW' size='142' sizepv='66' />
+		<content id='BONNE_ANNEE' size='108' sizepv='69' />
+		<content id='BONNEFETEMAMAN' size='104' sizepv='65' />
+		<content id='BOULEDENEIGE' size='135' sizepv='100' />
+		<content id='BOULEDENEIGE_SEQ' size='135' sizepv='100' />
+		<content id='BULLFIGHT' size='139' sizepv='56' />
+		<content id='CENSURE' size='80' sizepv='58' />
+		<content id='CHA_DIRTY_BMG' size='142' sizepv='80' />
+		<content id='CHATCOURSE_MMC_V25' size='82' sizepv='59' />
+		<content id='CHATMIAULE_MMC_V25' size='82' sizepv='59' />
+		<content id='CHIENPENSE_MMC_V25' size='113' sizepv='45' />
+		<content id='COEUR_SEQ' size='82' sizepv='67' />
+		<content id='COLORYOU' size='154' sizepv='66' />
+		<content id='COMMECA' size='72' sizepv='63' />
+		<content id='CONGRATS' size='121' sizepv='58' />
+		<content id='COVERI01' size='178' sizepv='64' />
+		<content id='DEBRECCO' size='181' sizepv='66' />
+		<content id='DIABLESSE' size='152' sizepv='75' />
+		<content id='DIABLESSE_SEQ' size='152' sizepv='75' />
+		<content id='DIDOSAND2_BMG' size='151' sizepv='71' />
+		<content id='DISCOS' size='166' sizepv='166' />
+		<content id='FDE_ANGRY' size='101' sizepv='70' />
+		<content id='FDE_BIERE' size='88' sizepv='57' />
+		<content id='FDE_BIGKISS' size='130' sizepv='95' />
+		<content id='FDE_BUSTED' size='122' sizepv='75' />
+		<content id='FDE_CADEAU' size='116' sizepv='65' />
+		<content id='FDE_CADEAU2' size='164' sizepv='64' />
+		<content id='FDE_CLOWN' size='152' sizepv='61' />
+		<content id='FDE_COEUR' size='82' sizepv='67' />
+		<content id='FDE_FANTOME' size='126' sizepv='69' />
+		<content id='FDE_HAPPY' size='101' sizepv='74' />
+		<content id='FDE_HAPPY1' size='116' sizepv='65' />
+		<content id='FDE_MONOEIL' size='168' sizepv='65' />
+		<content id='FDE_NOUNOURS' size='81' sizepv='87' />
+		<content id='FDE_NOUNOURS3' size='68' sizepv='74' />
+		<content id='FDE_NOUNOURS4' size='67' sizepv='79' />
+		<content id='FDE_OURS' size='86' sizepv='68' />
+		<content id='FDE_POURTOI' size='154' sizepv='64' />
+		<content id='FDE_POUSSIN' size='87' sizepv='79' />
+		<content id='FDE_POUSSIN2' size='63' sizepv='59' />
+		<content id='FDE_POUSSIN3' size='76' sizepv='67' />
+		<content id='FDE_SAD' size='101' sizepv='78' />
+		<content id='FDE_SHAME' size='84' sizepv='59' />
+		<content id='FDE_SMILE' size='130' sizepv='76' />
+		<content id='FDE_SMILE' size='132' sizepv='76' />
+		<content id='FDE_SMILEY' size='186' sizepv='65' />
+		<content id='FDE_SORCIERE' size='253' sizepv='66' />
+		<content id='FDE_TETE' size='71' sizepv='67' />
+		<content id='FDE_TOILET' size='104' sizepv='58' />
+		<content id='FDE_VACHE' size='81' sizepv='81' />
+		<content id='FDE_WO10ANIMATED' size='120' sizepv='66' />
+		<content id='FDE_WO12ANIMATED' size='133' sizepv='61' />
+		<content id='FDE_WO13ANIMATED' size='119' sizepv='76' />
+		<content id='FDE_WO14ANIMATED' size='100' sizepv='72' />
+		<content id='FDE_WO15ANIMATED' size='123' sizepv='81' />
+		<content id='FDE_WO17ANIMATED' size='98' sizepv='68' />
+		<content id='FDE_WO18ANIMATED' size='94' sizepv='58' />
+		<content id='FDE_WO19ANIMATED' size='144' sizepv='59' />
+		<content id='FDE_WO1ANIMATED' size='114' sizepv='77' />
+		<content id='FDE_WO20ANIMATED' size='125' sizepv='63' />
+		<content id='FDE_WO21ANIMATED' size='101' sizepv='63' />
+		<content id='FDE_WO22ANIMATED' size='94' sizepv='65' />
+		<content id='FDE_WO26ANIMATED' size='126' sizepv='78' />
+		<content id='FDE_WO27ANIMATED' size='118' sizepv='63' />
+		<content id='FDE_WO28ANIMATED' size='129' sizepv='73' />
+		<content id='FDE_WO2ANIMATED' size='94' sizepv='68' />
+		<content id='FDE_WO30ANIMATED' size='130' sizepv='64' />
+		<content id='FDE_WO31ANIMATED' size='107' sizepv='63' />
+		<content id='FDE_WO32ANIMATED' size='160' sizepv='73' />
+		<content id='FDE_WO33ANIMATED' size='159' sizepv='69' />
+		<content id='FDE_WO34ANIMATED' size='141' sizepv='71' />
+		<content id='FDE_WO35ANIMATED' size='134' sizepv='76' />
+		<content id='FDE_WO38ANIMATED' size='128' sizepv='76' />
+		<content id='FDE_WO5ANIMATED' size='142' sizepv='72' />
+		<content id='FDE_WO6ANIMATED' size='146' sizepv='61' />
+		<content id='FDE_WO9ANIMATED' size='122' sizepv='62' />
+		<content id='FEMMESAOUL' size='116' sizepv='61' />
+		<content id='FEMMESAOUL_SEQ' size='116' sizepv='61' />
+		<content id='FEMOIRIRE' size='155' sizepv='64' />
+		<content id='FOLIMAN' size='245' sizepv='77' />
+		<content id='FOU' size='138' sizepv='54' />
+		<content id='FRANKY' size='152' sizepv='65' />
+		<content id='GRANDMERE' size='68' sizepv='60' />
+		<content id='HH' size='116' sizepv='84' />
+		<content id='HH_SEQ' size='116' sizepv='84' />
+		<content id='HH2' size='216' sizepv='96' />
+		<content id='HH2_SEQ' size='216' sizepv='96' />
+		<content id='HOMSOAUL' size='105' sizepv='60' />
+		<content id='HOMSOAUL_SEQ' size='105' sizepv='60' />
+		<content id='HYPO' size='79' sizepv='87' />
+		<content id='I_LOVE_YOU' size='153' sizepv='56' />
+		<content id='I_LOVE_YOU_HAIR' size='150' sizepv='64' />
+		<content id='IM_WAITING2' size='94' sizepv='64' />
+		<content id='INDONESIA_SURF' size='99' sizepv='61' />
+		<content id='INESERED' size='219' sizepv='65' />
+		<content id='IT_S_A_BOY' size='116' sizepv='58' />
+		<content id='IT_S_A_GIRL' size='139' sizepv='65' />
+		<content id='JACKSON_HOLE' size='160' sizepv='64' />
+		<content id='JENAIDYEU' size='165' sizepv='66' />
+		<content id='JMACDONALD' size='202' sizepv='58' />
+		<content id='JOYEUSES_FETES' size='108' sizepv='67' />
+		<content id='JOYEUX_NOEL' size='109' sizepv='69' />
+		<content id='KAYAK' size='133' sizepv='62' />
+		<content id='LETSBOWL' size='177' sizepv='62' />
+		<content id='LIZZY_WALKER' size='136' sizepv='57' />
+		<content id='LOVESTRUCK1' size='110' sizepv='53' />
+		<content id='LOVESTRUCK2' size='124' sizepv='58' />
+		<content id='MARCJACOBS02' size='183' sizepv='61' />
+		<content id='MERCIPAPA' size='162' sizepv='67' />
+		<content id='MOMIE' size='144' sizepv='66' />
+		<content id='NIGHT_OUT' size='112' sizepv='53' />
+		<content id='NOUNOURBLANC' size='128' sizepv='61' />
+		<content id='OISEAU_MMC_V25' size='83' sizepv='62' />
+		<content id='OUF' size='133' sizepv='63' />
+		<content id='OURS_SEQ' size='86' sizepv='68' />
+		<content id='OURSGENT' size='127' sizepv='60' />
+		<content id='PC_BURST2' size='93' sizepv='62' />
+		<content id='PINK4_BMG' size='111' sizepv='63' />
+		<content id='PIPI' size='157' sizepv='62' />
+		<content id='POURTOIMAMAN' size='106' sizepv='62' />
+		<content id='ROCK_ON_GIRL2' size='92' sizepv='61' />
+		<content id='RUMOR' size='130' sizepv='59' />
+		<content id='SABRINAPURPLE' size='200' sizepv='57' />
+		<content id='SANTOI' size='147' sizepv='61' />
+		<content id='SEXY' size='91' sizepv='67' />
+		<content id='SEXY_KISS2' size='88' sizepv='66' />
+		<content id='SEXY_SEQ' size='75' sizepv='82' />
+		<content id='SHAKE_IT_BABY' size='161' sizepv='61' />
+		<content id='SKIING_WASATCH' size='117' sizepv='56' />
+		<content id='SMILEY_SEQ' size='186' sizepv='65' />
+		<content id='SNOW_FALLS' size='138' sizepv='65' />
+		<content id='SNOWBOARD' size='140' sizepv='63' />
+		<content id='SNOWBOARD_7' size='116' sizepv='62' />
+		<content id='SPLISH_SPLASH' size='136' sizepv='63' />
+		<content id='SUCEMONPIED' size='86' sizepv='49' />
+		<content id='SURRENDER_FLAG2' size='136' sizepv='65' />
+		<content id='THUMBS_UP2' size='92' sizepv='66' />
+		<content id='TIMONSTRE' size='111' sizepv='70' />
+		<content id='TORRY_RED' size='140' sizepv='58' />
+		<content id='TVFM_HIPPO' size='166' sizepv='95' />
+		<content id='TVFM_LEMURIENS' size='169' sizepv='76' />
+		<content id='VERONICABLUE' size='140' sizepv='59' />
+		<content id='VERONICAWINDOW' size='186' sizepv='57' />
+		<content id='VOODOO' size='71' sizepv='67' />
+		<content id='VWESTWOOD02' size='186' sizepv='58' />
+		<content id='WAKE_BOARDING_1A' size='122' sizepv='63' />
+		<content id='WASATCH_SKI' size='112' sizepv='61' />
+		<content id='WO18ANIMATED_SEQ' size='94' sizepv='58' />
+		<content id='WO21ANIMATED_SEQ' size='101' sizepv='63' />
+		<content id='WO33ANIMATED_SEQ' size='159' sizepv='69' />
+	</mobileType>
+</video>

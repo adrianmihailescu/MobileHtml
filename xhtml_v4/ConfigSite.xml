@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<ConfigSite>
+	<Title value="Kiwee Imágenes" />
+	<DisplayKey value="81DDEB08-0D40-4239-A52F-8EB76C17545D" test="BF863A69-5C00-490C-9049-A8F3A7BD0F43" />
+	<Url_IMG value="http://content.k-mobile.com/V2/DATA/IMG/{0}/{1}/PREVIEW/GIF/{1}.GIF_PREVIEW_IMODE.gif" />
+	<Url_Galeria_IMG value="http://content.k-mobile.com/V2/DATA/IMG/{0}/{1}/PREVIEW/GIF/{1}.GIF_PREVIEW_WEB.2.gif" />
+	<Url_Galeria2_IMG value="http://content.k-mobile.com/V2/DATA/IMG/{0}/{1}/PREVIEW/GIF/{1}.GIF_PREVIEW_IMODE.2.gif" />
+	<Url_ANIM value="http://content.k-mobile.com/V2/DATA/ANIM/{0}/{1}/PREVIEW/GIF/{1}.GIF_A_PR_40x40x8.gif" />
+	<Url_VIDEO value="http://content.k-mobile.com/V2/DATA/VIDEO/{0}/{1}/PREVIEW/GIF/{1}.GIF_A_PR_67x45.gif" />
+	<Url_VIDEO_RGT value="http://content.k-mobile.com/V2/DATA/VIDEO_RGT/{0}/{1}/PREVIEW/GIF/{1}.GIF_A_PR_67x45.gif" />
+	<Url_SCHEME value="http://content.k-mobile.com/V2/DATA/SCHEME/{0}/{1}/PREVIEW/GIF/{1}.GIF_PR_SCHEME_HOME2.gif" />
+	<Url_GAME value="http://content.k-mobile.com/V2/DATA/GAME/{0}/{1}/PREVIEW/GIF/{1}.GIF_GAME_PREVIEW_WAP.1.gif" />
+	<Home>
+		<Composite value="5844" />
+		<IMG value="5861" />
+		<ANIM value="5863" />
+		<VIDEO value="5862" />
+		<POSTALES value="5857" />
+		<VIDEONOMBRES value="10000" />
+		<FONDONOMBRES value="10003" />
+		<FONDODEDICATORIAS value="10004" />
+		<VIDEOANIMACIONES value="10005" />
+		<TEMAS value="10001" />
+		<ANIMANOMBRES value="10021" />
+		<TopNew value="5893" />
+		<Top value="5745" />
+		<New value="628" />
+		<Nb_Rows value="4" />
+		<Nb_Cols value="2" />
+		<Nb_Previews value="2" />
+		<Nb_Links value="2" />
+		<Nb_PreviewsComposite value="15" />
+	</Home>
+	<Back>
+	   	<CatalogGraphic value="/catalog.aspx" />
+	</Back>
+	<BillingTest>
+		<Provider value="EMOCION_ES_HOME_IMAGENES" />
+		<Provider_PROMO value="EMOCION_ES_HOME_IMAGENES_PROMO" />
+		<Provider_FREE value="EMOCION_ES_HOME_IMAGENES_FREE" />
+		<Url value="http://wap.k-mobile.com/kiweeimagenes" />
+		<UrlBilling_ value="/Video/content.aspx" />
+		<UrlBilling_VIDEO_DWL value="/Video/content.aspx" /> 
+		<UrlBilling_VIDEO_CLIP value="/Video/content.aspx" /> 
+		<UrlBilling_IMG_COLOR value="/Video/content.aspx" /> 
+		<UrlBilling_ANIM_COLOR value="/Video/content.aspx" /> 
+		<UrlBilling_Branded_ value="/videobranded.aspx" />
+		<UrlBilling_Branded_VIDEO_DWL value="/videobranded.aspx" /> 
+		<UrlBilling_Branded_VIDEO_CLIP value="/videobranded.aspx" /> 
+		<UrlBilling_Branded_IMG_COLOR value="/imagebranded.aspx" /> 
+		<UrlBilling_Branded_ANIM_COLOR value="/animationbranded.aspx" /> 
+		<UrlXView value="/view.aspx" />
+	</BillingTest>
+	<Billing>
+		<Provider value="EMOCION_ES_HOME_IMAGENES" />
+		<Provider_FREE value="EMOCION_ES_HOME_IMAGENES_FREE" />
+		<Url value="http://emocion.kiwee.com/xhtml" />
+		<UrlBilling_ value="/video{0}.aspx" />
+		<UrlBilling_VIDEO_DWL value="/video{0}.aspx" /> 
+		<UrlBilling_VIDEO_CLIP value="/video{0}.aspx" /> 
+		<UrlBilling_IMG_COLOR value="/image{0}.aspx" /> 
+		<UrlBilling_ANIM_COLOR value="/animation{0}.aspx" /> 
+		<UrlXView value="/view.aspx" />
+	</Billing>	
+	<DefaultContentType>
+		<data name="IMG" value="IMG_COLOR" />
+		<data name="ANIM" value="ANIM_COLOR" />
+		<data name="VIDEO" value="VIDEO_DWL" />
+		<data name="VIDEO_RGT" value="VIDEO_CLIP" />
+		<data name="COMPOSITE" value="" />
+	</DefaultContentType>	
+	<DefaultContentGroup>
+		<data name="IMG_COLOR" value="IMG" />
+		<data name="ANIM_COLOR" value="ANIM" />
+		<data name="VIDEO_DWL" value="VIDEO" />
+		<data name="VIDEO_CLIP" value="VIDEO_RGT" />
+	</DefaultContentGroup>	
+	<Images>	
+		<data name="imagenes" value="imagenes.gif" />
+		<data name="bullet" value="marcador.gif" />
+		<data name="halloween" value="halloween.gif" />
+		<data name="download" value="down5.gif" />
+		<data name="ahora" value="ahora.gif" />		
+		<data name="destacados" value="destacados.gif" />		
+		<data name="categorias" value="categorias.gif" />		
+		<data name="portales" value="portales.gif" />		
+		<data name="portales2" value="portales2.gif" />		
+		<data name="descargate" value="descargate.gif" />		
+		<data name="fondo" value="fondo.gif" />		
+		<data name="hfondo" value="hall_fondo.gif" />		
+		<data name="buscar60" value="buscar60.gif" />		
+		<data name="buscar40" value="buscar40.gif" />		
+		<data name="buscar25" value="buscar25.gif" />		
+		<data name="buscar20" value="buscar20.gif" />		
+		<data name="emocion60" value="emocion60.gif" />		
+		<data name="emocion40" value="emocion40.gif" />		
+		<data name="emocion25" value="emocion25.gif" />		
+		<data name="emocion20" value="emocion20.gif" />				
+		<data name="back60" value="back60.gif" />		
+		<data name="back40" value="back40.gif" />		
+		<data name="back25" value="back25.gif" />		
+		<data name="back20" value="back20.gif" />		
+		<data name="up60" value="up60.gif" />		
+		<data name="up40" value="up40.gif" />		
+		<data name="up25" value="up25.gif" />		
+		<data name="up20" value="up20.gif" />						
+		<data name="hbuscar60" value="hbuscar60.gif" />		
+		<data name="hbuscar40" value="hbuscar40.gif" />		
+		<data name="hbuscar25" value="hbuscar25.gif" />		
+		<data name="hbuscar20" value="hbuscar20.gif" />		
+		<data name="hemocion60" value="hemocion60.gif" />		
+		<data name="hemocion40" value="hemocion40.gif" />		
+		<data name="hemocion25" value="hemocion25.gif" />		
+		<data name="hemocion20" value="hemocion20.gif" />				
+		<data name="hback60" value="hback60.gif" />		
+		<data name="hback40" value="hback40.gif" />		
+		<data name="hback25" value="hback25.gif" />		
+		<data name="hback20" value="hback20.gif" />		
+		<data name="hup60" value="hup60.gif" />		
+		<data name="hup40" value="hup40.gif" />		
+		<data name="hup25" value="hup25.gif" />		
+		<data name="hup20" value="hup20.gif" />						
+		<data name="apuntate" value="apuntate.gif" />			
+		<data name="apuntate2" value="apuntate2.gif" />			
+		<data name="search" value="search.gif" />								
+		<data name="barrita" value="barrita.gif" />		
+		<data name="top" value="top.gif" />										
+		<data name="novedades" value="novedades.gif" />										
+		<data name="amor" value="amor.gif" />										
+		<data name="modelos" value="modelos.gif" />										
+		<data name="animaciones" value="animaciones.gif" />										
+		<data name="videos" value="videos.gif" />										
+		<data name="categorias" value="categorias.gif" />	
+		<data name="catimg" value="catimg.gif" />	
+		<data name="topvideos" value="topvideos.gif" />	
+		<data name="newsvideos" value="newsvideos.gif" />	
+		<data name="topanim" value="topanim.gif" />	
+		<data name="newsanim" value="newsanim.gif" />	
+		<data name="personalizados" value="personalizados.gif" />									
+		<data name="personalizadas" value="personalizadas.gif" />									
+		<data name="secciones" value="secciones.gif" />									
+		<data name="secciones2" value="secciones2.gif" />									
+		<data name="catanim" value="catanim.gif" />									
+		<data name="catvideos" value="catvideos.gif" />									
+		<data name="temas" value="temas.gif" />									
+		<data name="sf" value="sf.gif" />									
+		<data name="sfanimaciones" value="sfanimaciones.gif" />									
+		<data name="sfvideos" value="sfvideos.gif" />		
+		<data name="sftv" value="sftv.gif" />
+		<data name="sftonos" value="sftonos.gif" />							
+		<data name="sfanim" value="sfanim.gif" />
+		<data name="sfgame" value="sfgame.gif" />					
+		<data name="6032" value="imagenes.gif" />				
+		<data name="6083" value="imagenes.gif" />			
+		<data name="6089" value="imagenes.gif" />			
+		<data name="6120" value="imagenes.gif" />					
+		<data name="6123" value="halloween.gif" />
+		<data name="6178" value="imagenes.gif" />					
+		<data name="6190" value="videos.gif" />			
+		<data name="img_5993" value="img_rata.gif" />		
+		<data name="anim_5993" value="anim_rata.gif" />		
+		<data name="img_6050" value="schoolimg.gif" />		
+		<data name="anim_6050" value="schoolanim.gif" />		
+		<data name="video_6050" value="schoolvideo.gif" />		
+		<data name="img_6072" value="stimages.gif" />		
+		<data name="anim_6072" value="stanimaciones.gif" />		
+		<data name="img_6075" value="euimagenes.gif" />		
+		<data name="anim_6075" value="euanimaciones.gif" />		
+		<data name="img_6123" value="hall_imagenes.gif" />		
+		<data name="anim_6123" value="hall_animaciones.gif" />		
+		<data name="video_6123" value="hall_video.gif" />		
+		<data name="sound_6123" value="hall_tonos.gif" />
+		<data name="dedicatorias" value="logo_dedicatorias.gif" />
+		<data name="fondonombres" value="logo_fondonombres.gif" />
+	</Images>
+	<Texts>
+		<data name="Inicio" value="Imágenes" />
+		<data name="Ahora" value="AHORA EN IMAGENES" />
+		<data name="Destacadas" value="IMAGENES DESTACADAS" />
+		<data name="Back" value="Volver" />
+		<data name="Operador" value="Lo sentimos, solo los usuarios de Movistar pueden utilizar este servicio." />
+		<data name="TopNew" value="Top y Novedades" />
+		<data name="TopImg" value="Top Imágenes" />
+		<data name="NewImg" value="Novedades Imágenes" />
+		<data name="Recomendados" value="Recomendados" />
+		<data name="Canales" value="POR CATEGORIAS" />
+		<data name="Categorias" value="Más categorías" />
+		<data name="Back" value="Volver" />
+		<data name="Error" value="Se ha producido un error" />
+		<data name="Error2" value="Lo sentimos, pero se ha producido un error. Rogamos reintente en unos instantes." />
+		<data name="Promociones" value="Todo a 1 euro" />
+		<data name="Postales" value="Dedica tu amor" />		
+		<data name="next" value="Siguientes" />
+		<data name="prev" value="Anteriores" />
+		<data name="IMG" value="Imágenes" />
+		<data name="ANIM" value="Animaciones" />
+		<data name="VIDEO" value="Vídeos" />
+		<data name="POSTALES" value="Postales" />
+		<data name="MasIMG" value="Más Imágenes" />
+		<data name="MasANIM" value="Más Animaciones" />
+		<data name="MasVIDEO" value="Más Vídeos" />
+		<data name="MasPOSTALES" value="Más Postales" />		
+		<data name="Compatibility" value="Lo sentimos, pero tu teléfono no es compatible con este contenido" />	
+		<data name="Compatibility2" value="Lo sentimos, pero tu teléfono no es compatible con nuestros servicios" />	
+		<data name="5993" value="Ratatouille" />	
+		<data name="6050" value="Vuelta al cole" />	
+		<data name="6072" value="Star Wars" />	
+		<data name="6075" value="Eurobasket 2007" />	
+		<data name="6083" value="Hello Kitty" />	
+		<data name="6089" value="Kukuxumusu" />	
+		<data name="6120" value="Otoño" />	
+		<data name="6123" value="Halloween" />	
+		<!-- BILLING -->
+		<data name="BillingPPD" value="Descargar por 1.5€" />
+		<data name="BillingFree" value="Ya has descargado este contenido. Descargar gratis de nuevo." />
+		<!-- SEARCH -->
+		<data name="SearchLink" value="Buscador" />
+		<data name="SearchLbl" value="Buscador" />
+		<data name="SearchCmd" value="OK" />
+		<data name="Search" value="Buscador" />
+		<data name="SearchQuestion" value="Qué tipo de contenido buscas?" />
+		<data name="SearchError" value="Lo sentimos, tu palabra debe tener al menos 3 caracteres." />
+		<data name="SearchComment" value="Escribe una palabra (Ej: CORAZON)" />
+		<data name="NoResult" value="Lo sentimos, no se han encontrado resultados para tu búsqueda." />
+		<data name="NewSearch" value="Otra búsqueda" />
+		<data name="NewContentType" value="Otro tipo" />
+		<data name="Search_IMG" value="Imagen(es)" />
+		<data name="Search_ANIM" value="Animación(es)" />
+		<data name="Search_VIDEO" value="Vídeo(s)" />
+		<!-- DOWNLOAD -->
+		<data name="Download" value="Descargar" />
+		<data name="LnkDownload" value="Descargar aquí" />
+		<data name="InfoDownload" value="Para descargar tu contenido, pincha en el siguiente enlace" />
+		<data name="InfoDownload2" value="Todas tus últimas compras las encontrarás en la Zona Personal" />		
+		<data name="NoDownload" value="Lo sentimos, ha ocurrido un error al intentar descargar este contenido" />		
+		<!-- SHOPS -->
+		<data name="moreshops" value="Más portales" />
+		<data name="Shops" value="PORTALES DE IMAGENES" />
+		<data name="Shop1" value="Animaciones y Logos" />
+		<data name="Shop2" value="Todo Fotos" />
+		<data name="Shop3" value="Chicos Malos" />
+		<data name="Shop4" value="Solo De Logos" />
+		<data name="Shop5" value="Todo lo último" />
+		<data name="Shop6" value="Foto Móvil" />
+		<data name="Shop7" value="Todo por 2 euros/mes" />
+		<data name="Shop8" value="Movilisto Imágenes" />
+		<data name="Shop9" value="Sólo para chicas" />
+		<data name="Shop10" value="Los Superventas" />
+		<data name="Shop11" value="Expo Arte" />
+		<data name="Shop12" value="Ultimas Imágenes" />
+		<data name="Shop13" value="Decora Móvil" />
+		<data name="Shop14" value="Disney Town" />
+		<data name="Shop15" value="Top Total Imágenes" />
+		<data name="Shop16" value="Terra" />
+		<data name="Shop17" value="Top Kiwee Imágenes" />
+		<data name="LnkShop1" value="http://imode.gofresh.de/emocion/wap/free/" />
+		<data name="LnkShop2" value="http://emocionw.smsarena.com/fotos/" />
+		<data name="LnkShop3" value="http://www.chicosmalos.gigigo.com/wap/" />
+		<data name="LnkShop4" value="http://wml.solodelogos.com/wml" />
+		<data name="LnkShop5" value="http://www.todoloultimo.net/tlu_img_movistar/" />		
+		<data name="LnkShop6" value="http://corbisspawap.gseurope.com" />
+		<data name="LnkShop7" value="http://e-mocion.genexies.com/todo2mes/index.php" />
+		<data name="LnkShop8" value="http://movistar.movilisto.com/image/index.jsp" />
+		<data name="LnkShop9" value="http://soloparachicas.gigigo.com/site/index.asp" />
+		<data name="LnkShop10" value="http://e-mocion.genexies.com/index.php?id=2" />
+		<data name="LnkShop11" value="http://artspa.gseurope.com" />
+		<data name="LnkShop12" value="http://helm.tekmob.com/iac/m3?stk=movistarwap&amp;g=2" />
+		<data name="LnkShop13" value="http://movistar.mister-i.com/wap/decora/" />
+		<data name="LnkShop14" value="http://tldt.volantis.net/c/" />
+		<data name="LnkShop15" value="http://telefonicawap-images.yourmobile.fr/" />		
+		<data name="LnkShop16" value="http://217.116.4.135/wap/index.php?id=2" />
+		<data name="LnkShop17" value="http://wap.k-mobile.com/KiweeImagenes" />		
+		<data name="LnkShop20" value="./shops.aspx" />		
+		<!-- GENERA -->
+		<data name="Cateto" value="¡El cateto de la TV!" />
+		<data name="AnimaNombres" value="Animanombres" />
+		<data name="VideoNombres" value="Videonombres" />
+		<data name="VideoAnimaciones" value="Videoanimaciones" />
+		<data name="FondoNombres" value="Fondonombres" />
+		<data name="FondoDedicatorias" value="Fondodedicatorias" />
+		<data name="Temas" value="Temas" />
+		<data name="FondoNombresH" value="Fondonombres de terror" />
+		<data name="TonosH" value="Tonos de Halloween" />
+		<data name="TonoMensajesH" value="Tonos SMS Terror" />		
+		<data name="LnkGenera10000" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2785" desc="videonombres" />
+		<data name="LnkGenera10001" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2773" desc="temas" />
+		<data name="LnkGenera10002" value="http://www.marketingmovil.com:8080/portal/img/ServletEspecial?idaccion=2928" desc="el cateto" />
+		<data name="LnkGenera10003" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2157" desc="fondonombres" />
+		<data name="LnkGenera10004" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2778" desc="fondodedicatorias" />
+		<data name="LnkGenera10005" value="http://www.marketingmovil.com/php/movistar/v_animh/wap/index.php" desc="videoanimaciones" />
+		<data name="LnkGenera10006" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2158&amp;indnav=0&amp;finnav=0&amp;id=1730" desc="camisetas lfp" />
+		<data name="LnkGenera10007" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2925" desc="el cateto en la playa" />
+		<data name="LnkGenera10008" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2977" desc="la pija" />
+		<data name="LnkGenera10009" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2779&amp;indnav=0&amp;finnav=0&amp;id=17" desc="dedicatorias frikis" />
+		<data name="LnkGenera10010" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2925" desc="Cateto caribe" />
+		<data name="LnkGenera10011" value="http://www.marketingmovil.com:8080/portal/ZPTemasWapAction?idaccion=2775&amp;id=857&amp;origen=2891" desc="Bisbal" />
+		<data name="LnkGenera10012" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2158&amp;indnav=0&amp;finnav=0&amp;id=1557" desc="fondonombres verano" />
+		<data name="LnkGenera10013" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3000&amp;indnav=0&amp;finnav=0&amp;id=2071" desc="tanguitas" />
+		<data name="LnkGenera10014" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3000&amp;indnav=0&amp;finnav=0&amp;id=2154" desc="tatoos" />
+		<data name="LnkGenera10015" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3000&amp;indnav=0&amp;finnav=0&amp;id=2206" desc="BikiniTwins" />
+		<data name="LnkGenera10016" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2774&amp;indnav=0&amp;finnav=0&amp;id=856" desc="Temas de verano" />
+		<data name="LnkGenera10017" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2779&amp;indnav=0&amp;finnav=0&amp;id=7" desc="Fondodedicatorias amor" />
+		<data name="LnkGenera10018" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3000&amp;indnav=0&amp;finnav=0&amp;id=2070" desc="chicas surferas" />
+		<data name="LnkGenera10019" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3000&amp;indnav=0&amp;finnav=0&amp;id=2237&amp;inicio=0" desc="maravillas del mundo" />
+		<data name="LnkGenera10020" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3095" desc="fondonombres y temas" />
+		<data name="LnkGenera10021" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3130" desc="animanombres" />
+		<data name="LnkGenera10022" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3182" desc="tv lfp" />
+		<data name="LnkGenera10023" value="http://www.marketingmovil.com/portales/movistar/wap/magic/imgPre/CajaTabaco-2.jpg" desc="preview fondonombre1" />
+		<data name="LnkGenera10024" value="http://www.marketingmovil.com:8080/portal/ServletAction?idaccion=2160&amp;id=1645&amp;origen=2923" desc="link fondonombre1" />
+		<data name="LnkGenera10025" value="http://www.marketingmovil.com/portales/movistar/wap/magic/imgPre/cerditos-morritos.jpg" desc="preview fondonombre2" />
+		<data name="LnkGenera10026" value="http://www.marketingmovil.com:8080/portal/ServletAction?idaccion=2160&amp;id=2314&amp;origen=2923" desc="link fondonombre2" />
+		<data name="LnkGenera10027" value="http://www.marketingmovil.com/portales/movistar/wap/magic/imgPre/hollywood.jpg" desc="preview fondodedicatoria1" />
+		<data name="LnkGenera10028" value="http://www.marketingmovil.com:8080/portal/ServletAction?idaccion=2160&amp;id=1648&amp;origen=2923" desc="link fondodedicatoria1" />
+		<data name="LnkGenera10029" value="http://www.marketingmovil.com/portales/movistar/wap/magic/imgPre/FDflor.jpg" desc="preview fondodedicatoria2" />
+		<data name="LnkGenera10030" value="http://www.marketingmovil.com:8080/portal/ServletAction?idaccion=2160&amp;id=1708&amp;origen=2923" desc="link fondodedicatoria2" />
+		<data name="LnkGenera10031" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3130" desc="gana 5 marcos" />
+		<data name="LnkGenera10032" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3222" desc="celebrities" />
+		<data name="LnkGenera10033" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3226" desc="sexy futbol" />
+		<data name="LnkGenera10034" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2158&amp;indnav=0&amp;finnav=0&amp;id=1554" desc="fondonombres sexys" />
+		<data name="LnkGenera10035" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3284" desc="Delfines y +" />
+		<data name="LnkGenera10036" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2158&amp;indnav=0&amp;finnav=0&amp;id=1553&amp;inicio=1553" desc="fondonombres halloween" />
+		<data name="LnkGenera10037" value="http://www.marketingmovil.com:8080/portal/hmr/ServletAction?idaccion=3205&amp;indnav=0&amp;finnav=0&amp;id=5689&amp;inicio=5689" desc="tonomensajes halloween" />
+		<data name="LnkGenera10038" value="http://www.marketingmovil.com:8080/portal/hmr/ServletAction?idaccion=3101&amp;indnav=0&amp;finnav=0&amp;id=5484&amp;inicio=5484" desc="tonos halloween" />
+		<data name="LnkGenera10039" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3282" desc="Vampiresas" />
+		<data name="LnkGenera10040" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3283" desc="X-Zombies" />
+		<data name="LnkGenera10041" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=3286" desc="Camisetas mojadas" />
+		<data name="LnkGenera10042" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2774&amp;indnav=0&amp;finnav=0&amp;id=484" desc="Temas terroríficos" />
+		<data name="LnkGenera10043" value="http://www.marketingmovil.com:8080/portal/img/ServletAction?idaccion=2158&amp;indnav=0&amp;finnav=0&amp;id=1553" desc="Fondonombres terroríficos" />
+		<data name="LnkGenera11005" value="http://emocion.kiwee.com/xhtml/minisite.aspx?id=5993" desc="ratatouille" />		
+		<data name="LnkGenera11006" value="http://emocion.kiwee.com/xhtml/minisite.aspx?id=6083" desc="hello kitty" />		
+		<data name="LnkGenera11007" value="http://emocion.kiwee.com/xhtml/catalog.aspx?cs=6035&amp;cg=IMG" desc="bob esponja" />		
+		<data name="LnkGenera11008" value="http://emocion.kiwee.com/xhtml/minisite.aspx?id=6072" desc="star wars" />		
+		<data name="LnkGenera11009" value="http://emocion.kiwee.com/xhtml/minisite.aspx?id=6075" desc="eurobasket07" />		
+		<data name="LnkGenera11010" value="http://emocion.kiwee.com/xhtml/minisite.aspx?id=6089" desc="kukuxumusu" />				
+		<data name="LnkGenera11011" value="http://emocion.kiwee.com/xhtml/minisite.aspx?id=6050" desc="back to school" />		
+		<data name="LnkGenera11012" value="http://emocion.kiwee.com/xhtml/minisite.aspx?id=6178" desc="pack junior" />		
+		<data name="LnkGenera11013" value="http://emocion.kiwee.com/xhtml/minisite.aspx?id=6190" desc="pack junior video" />				
+		<data name="LnkGenera11015" value="http://emocion.kiwee.com/xhtml/minisite.aspx?id=6123" desc="halloween" />				
+		<data name="LnkFondoGenera1" value="id=2504" />
+		<data name="LnkFondoGenera2" value="id=1878" />
+		<data name="LnkFondoGenera3" value="id=1559" />
+		<data name="LnkFondoGenera4" value="id=1841" />
+		<data name="LnkFondoGenera5" value="id=2041" />
+		<data name="LnkFondoGenera6" value="id=2055" />
+		<data name="LnkFondoGenera7" value="id=1882" />
+		<data name="FondoGenera1" value="casaterror.jpg" />
+		<data name="FondoGenera2" value="bruja.jpg" />	
+		<data name="FondoGenera3" value="f_scream.jpg" />
+		<data name="FondoGenera4" value="rip.jpg" />
+		<data name="FondoGenera5" value="Vampiro.jpg" />
+		<data name="FondoGenera6" value="fantasmavelas.jpg" />	
+		<data name="FondoGenera7" value="horror.jpg" />
+		<data name="LnkTonoGenera1" value="id=5272" />
+		<data name="LnkTonoGenera2" value="id=5270" />
+		<data name="LnkTonoGenera3" value="id=5280" />
+		<data name="LnkTonoGenera4" value="id=5281" />
+		<data name="LnkTonoGenera5" value="id=131" />
+		<data name="LnkTonoGenera6" value="id=5486" />
+		<data name="LnkTonoGenera7" value="id=5515" />
+		<data name="LnkTonoGenera8" value="id=5278" />
+		<data name="LnkTonoGenera9" value="id=5296" />
+		<data name="LnkTonoGenera10" value="id=5295" />
+		<data name="TonoGenera1" value="Parodia de Bricomanía - BricoSangría" />
+		<data name="TonoGenera2" value="El Drácula de Barrio Sesamo cuenta tus llamadas" />
+		<data name="TonoGenera3" value="Te habla el Diablo" />
+		<data name="TonoGenera4" value="Versión mix de la BSO El Exorcista" />
+		<data name="TonoGenera5" value="Música Suspense (Psicosis)" />
+		<data name="TonoGenera6" value="Bestia enjaulada" />
+		<data name="TonoGenera7" value="Musica misteriosa" />
+		<data name="TonoGenera8" value="El Doctor Frankenstein VS Chiquito" />
+		<data name="TonoGenera9" value="Música de terror" />
+		<data name="TonoGenera10" value="Asesino de la matanza de Texas" />
+		<data name="Especial1" value="El Cateto en la playa" />		
+		<data name="Especial2" value="Animaciones: sexys y de humor" />		
+		<data name="Especial3" value="Perros, cachorros y mascotas" />		
+		<data name="Especial4" value="La pija" />		
+		<data name="Especial5" value="Motor y chicas tunning" />		
+		<data name="Especial6" value="Dedicatorias frikis" />		
+		<data name="Especial7" value="Hadas, elfos y mundos fantásticos" />		
+		<data name="Especial8" value="Apúntate a alertas dibus" />		
+		<data name="Especial9" value="Fashion Piolín: ponte de moda!" />		
+		<data name="Especial10" value="Top playas y paisajes" />		
+		<data name="Especial11" value="Bikinis, modelos y chicas sexy" />		
+		<data name="Especial12" value="Apúntate a alertas manga" />		
+		<data name="Especial13" value="Día del orgullo gay" />		
+		<data name="Especial14" value="Fondocalendarios Julio: sexys y más" />		
+		<data name="Especial15" value="Bugs Bunny, Piolín, Lucas y más" />
+		<data name="Especial16" value="Mucho amor: corazones, delfines y más" />
+		<data name="Especial17" value="Especial San Fermín 2007" />
+		<data name="Especial18" value="Lo último: tema de David Bisbal" filter="BG_SCHEME" />
+		<data name="Especial19" value="Gana un viaje al Caribe con el Cateto" />
+		<data name="Especial20" value="Brasileñas: sensualidad 100%"/>
+		<data name="Especial21" value="Torito w@po" />
+		<data name="Especial22" value="Disfruta del surf y las playas" />
+		<data name="Especial23" value="Los mejores temas para cambiar el look a tu móvil" filter="BG_SCHEME" />	
+		<data name="Especial24" value="Kukuxumusu: toritos y mucho más" />	
+		<data name="Especial25" value="Zodiaco WB: Piolín, Lucas con tu signo" />
+		<data name="Especial26" value="Los Fondonombres más veraniegos" />
+		<data name="Especial27" value="Pon un tanguita a tu móvil" />
+		<data name="Especial28" value="Tattoos: pon un tatuaje en tu móvil" />
+		<data name="Especial29" value="Dedica tu Amor: corazones, delfines" />
+		<data name="Especial30" value="BikiniTwins: dos mejor que una" />
+		<data name="Especial31" value="Piratas, calaveras... Ven y pasa miedo" />
+		<data name="Especial32" value="Temas de verano: refresca el look a tu móvil" filter="BG_SCHEME" />
+		<data name="Especial33" value="Declara tu amor con las fondodedicatorias" />
+		<data name="Especial34" value="Las chicas surferas más sexys" />
+		<data name="Especial35" value="Marcas de Coches: Ferrari, Porsche..." />
+		<data name="Especial36" value="Suecas: Rubias de escándalo" />
+		<data name="Especial37" value="Maravillas del mundo: todas en tu móvil" />
+		<data name="Especial38" value="Comida Basurilla: pártete de risa" filter="ANIM_COLOR" />
+		<data name="Especial39" value="Carteles de Pelis: Lolita, Vértigo..." />
+		<data name="Especial40" value="Fondonombres y temas: gana un quad" />
+		<data name="Especial41" value="Ratatouille: la rata más molona" />
+		<data name="Especial42" value="Fondocalendarios de Agosto: coches, sexy..." />
+		<data name="Especial43" value="La novia cadáver de Tim Burton" />
+		<data name="Especial44" value="El top de los vídeos: sexy, acción..." filter="VIDEO_DWL" />
+		<data name="Especial45" value="Hentai: manga muy sexy" />
+		<data name="Especial46" value="Ying Yang, Calaveras Piratas y Símbolos" />
+		<data name="Especial47" value="Yabadabaduuu!! Los Picapiedra han llegado" />
+		<data name="Especial48" value="Body Painting: Modelos pintadas" />
+		<data name="Especial49" value="Esto es la selva. Lobos, tigres..." />
+		<data name="Especial50" value="¡Llegan los nuevos animanombres!" />
+		<data name="Especial51" value="Star Wars: Jedis, Yoda..." />
+		<data name="Especial52" value="Fantasía: hadas, elfos, dragones..." />
+		<data name="Especial53" value="Hello Kitty de verano" />
+		<data name="Especial54" value="Bob Esponja y sus amigos" />
+		<data name="Especial55" value="Las aventuras de Tom y Jerry" />
+		<data name="Especial56" value="Gana una TV con la LFP" />
+		<data name="Especial57" value="Especial Eurobasket 07" />
+		<data name="Especial58" value="Las chicas del US Open para ti" />
+		<data name="Especial59" value="La vuelta al cole en tu móvil" />
+		<data name="Especial60" value="Lencería y modelos de colores" />
+		<data name="Especial61" value="Fotos de alta calidad" />
+		<data name="Especial62" value="Los tíos más sexys" />
+		<data name="Especial63" value="El otoño ya está aquí. Alegra esa cara." />
+		<data name="Especial64" value="Las camisetas más cachondas" />
+		<data name="Especial65" value="Rossi, Pedrosa, toda la MotoGP" />
+		<data name="Especial66" value="Garfield, el gato más chulo" />
+		<data name="Especial67" value="Animanombres: gana 5 marcos digitales" />
+		<data name="Especial68" value="Liga de fútbol sexy" />
+		<data name="Especial69" value="Celebrities: famosos en tu móvil" />
+		<data name="Especial70" value="El fútbol más sexy" />
+		<data name="Especial71" value="Los fondonombres más sexys" />
+		<data name="Especial72" value="Las mejores postales del día del Pilar" />
+		<data name="Especial73" value="Baby piolín, héroes y otras monadas" />
+		<data name="Especial74" value="Alucina con los superhéroes pekes" />
+		<data name="Especial75" value="Delfines y mucho más" />
+		<data name="Especial76" value="Alucina con lo mejor de Halloween" />
+		<data name="Especial77" value="Vampire girls: chicas de miedo" />
+		<data name="Especial78" value="Extreme Zombies: los zombies más cañeros" />
+		<data name="Especial79" value="Camisetas mojadas: chicas muy fresquitas" />
+		<data name="Especial80" value="Temas terroríficos de Halloween" filter="BG_SCHEME" />
+		<data name="Especial81" value="Fondonombres de terror" />
+		<data name="LinkEspecial1" value="./linkto.aspx?cg=COMPOSITE&amp;id=10007" />
+		<data name="LinkEspecial2" value="./linkto.aspx?cg=COMPOSITE&amp;id=5863" />
+		<data name="LinkEspecial3" value="./linkto.aspx?id=2830&amp;cg=IMG" />
+		<data name="LinkEspecial4" value="./linkto.aspx?id=10008&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial5" value="./linkto.aspx?id=2692&amp;cg=IMG&amp;p=3857&amp;t=Chicas Sexys" />
+		<data name="LinkEspecial6" value="./linkto.aspx?id=10009&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial7" value="./linkto.aspx?id=5137&amp;cg=IMG" />
+		<data name="LinkEspecial8" value="./linkto.aspx?id=21" />
+		<data name="LinkEspecial9" value="./linkto.aspx?id=5621&amp;cg=IMG" />
+		<data name="LinkEspecial10" value="./linkto.aspx?id=2591&amp;cg=IMG" />
+		<data name="LinkEspecial11" value="./linkto.aspx?id=2692&amp;cg=IMG" />
+		<data name="LinkEspecial12" value="./linkto.aspx?id=22" />	
+		<data name="LinkEspecial13" value="./linkto.aspx?id=3713&amp;cg=IMG" />
+		<data name="LinkEspecial14" value="./linkto.aspx?id=5886&amp;cg=IMG" />
+		<data name="LinkEspecial15" value="./linkto.aspx?id=4446&amp;cg=IMG" />
+		<data name="LinkEspecial16" value="./linkto.aspx?id=5715&amp;cg=IMG" />
+		<data name="LinkEspecial17" value="./linkto.aspx?id=5897" />
+		<data name="LinkEspecial18" value="./linkto.aspx?id=10011&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial19" value="./linkto.aspx?id=10010&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial20" value="./linkto.aspx?id=5888&amp;cg=IMG&amp;p=3857&amp;t=Chicas Sexys" />
+		<data name="LinkEspecial21" value="./linkto.aspx?id=5900&amp;cg=IMG" />
+		<data name="LinkEspecial22" value="./linkto.aspx?id=5898&amp;cg=IMG" />
+		<data name="LinkEspecial23" value="./linkto.aspx?id=10001&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial24" value="./linkto.aspx?id=11010&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial25" value="./linkto.aspx?id=5910&amp;cg=IMG" />
+		<data name="LinkEspecial26" value="./linkto.aspx?id=10012&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial27" value="./linkto.aspx?id=10013&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial28" value="./linkto.aspx?id=10014&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial29" value="./linkto.aspx?id=2090&amp;cg=IMG&amp;p=3755&amp;t=Amor" />
+		<data name="LinkEspecial30" value="./linkto.aspx?id=10015&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial31" value="./linkto.aspx?id=5943&amp;cg=IMG" />
+		<data name="LinkEspecial32" value="./linkto.aspx?id=10016&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial33" value="./linkto.aspx?id=10017&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial34" value="./linkto.aspx?id=10018&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial35" value="./linkto.aspx?id=5836&amp;cg=IMG" />
+		<data name="LinkEspecial36" value="./linkto.aspx?id=5944&amp;cg=IMG&amp;p=3857&amp;t=Chicas Sexys" />
+		<data name="LinkEspecial37" value="./linkto.aspx?id=10019&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial38" value="./linkto.aspx?id=5953&amp;cg=ANIM" />
+		<data name="LinkEspecial39" value="./linkto.aspx?id=5950&amp;cg=IMG" />
+		<data name="LinkEspecial40" value="./linkto.aspx?id=10020&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial41" value="./linkto.aspx?id=11005&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial42" value="./linkto.aspx?id=5886&amp;cg=IMG" />
+		<data name="LinkEspecial43" value="./linkto.aspx?id=4458&amp;cg=IMG" />
+		<data name="LinkEspecial44" value="./linkto.aspx?id=3957" />
+		<data name="LinkEspecial45" value="./linkto.aspx?id=5972&amp;cg=IMG&amp;p=4326&amp;t=Manga, Anime y Hentai" />
+		<data name="LinkEspecial46" value="./linkto.aspx?id=3712&amp;cg=IMG" />		
+		<data name="LinkEspecial47" value="./linkto.aspx?id=5622&amp;cg=IMG" />		
+		<data name="LinkEspecial48" value="./linkto.aspx?id=5982&amp;cg=IMG&amp;p=3857&amp;t=Chicas Sexys" />		
+		<data name="LinkEspecial49" value="./linkto.aspx?id=3970&amp;cg=IMG&amp;p=3135&amp;t=Animales" />		
+		<data name="LinkEspecial50" value="./linkto.aspx?id=10021&amp;cg=COMPOSITE" />		
+		<data name="LinkEspecial51" value="./linkto.aspx?id=11008&amp;cg=COMPOSITE" />		
+		<data name="LinkEspecial52" value="./linkto.aspx?id=5983&amp;cg=IMG" />		
+		<data name="LinkEspecial53" value="./linkto.aspx?id=11006&amp;cg=COMPOSITE" />		
+		<data name="LinkEspecial54" value="./linkto.aspx?id=11007&amp;cg=COMPOSITE" />		
+		<data name="LinkEspecial55" value="./linkto.aspx?id=5624&amp;cg=IMG" />		
+		<data name="LinkEspecial56" value="./linkto.aspx?id=10022&amp;cg=COMPOSITE" />	
+		<data name="LinkEspecial57" value="./linkto.aspx?id=11009&amp;cg=COMPOSITE" />		
+		<data name="LinkEspecial58" value="./linkto.aspx?id=5870&amp;cg=IMG" />		
+		<data name="LinkEspecial59" value="./linkto.aspx?id=11011" />		
+		<data name="LinkEspecial60" value="./linkto.aspx?id=6052&amp;cg=IMG&amp;p=3857&amp;t=Chicas Sexys" />		
+		<data name="LinkEspecial61" value="./linkto.aspx?id=6103&amp;cg=IMG" />		
+		<data name="LinkEspecial62" value="./linkto.aspx?id=2604&amp;cg=IMG" />		
+		<data name="LinkEspecial63" value="./linkto.aspx?id=6114&amp;cg=IMG" />		
+		<data name="LinkEspecial64" value="./linkto.aspx?id=5973&amp;cg=IMG&amp;p=3142&amp;t=Humor y Frikis" />		
+		<data name="LinkEspecial65" value="./linkto.aspx?id=6049&amp;cg=IMG" />		
+		<data name="LinkEspecial66" value="./linkto.aspx?id=6118&amp;cg=IMG" />		
+		<data name="LinkEspecial67" value="./linkto.aspx?id=10031&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial68" value="./linkto.aspx?id=6146&amp;cg=IMG&amp;p=3857&amp;t=Chicas Sexys" />		
+		<data name="LinkEspecial69" value="./linkto.aspx?id=10032&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial70" value="./linkto.aspx?id=10033&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial71" value="./linkto.aspx?id=10034&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial72" value="./linkto.aspx?id=6162&amp;cg=IMG" />	
+		<data name="LinkEspecial73" value="./linkto.aspx?id=2883&amp;cg=IMG&amp;p=3143&amp;t=Bebés y Monadas" />	
+		<data name="LinkEspecial74" value="./linkto.aspx?id=6138&amp;cg=IMG&amp;p=3144&amp;t=Dibujos Animados" />	
+		<data name="LinkEspecial75" value="./linkto.aspx?id=10035&amp;cg=COMPOSITE" />	
+		<data name="LinkEspecial76" value="./linkto.aspx?id=11015" />	
+		<data name="LinkEspecial77" value="./linkto.aspx?id=10039&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial78" value="./linkto.aspx?id=10040&amp;cg=COMPOSITE" />	
+		<data name="LinkEspecial79" value="./linkto.aspx?id=10041&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial80" value="./linkto.aspx?id=10042&amp;cg=COMPOSITE" />
+		<data name="LinkEspecial81" value="./linkto.aspx?id=10043&amp;cg=COMPOSITE" />		
+		<!-- ALERTAS -->
+		<data name="Alertas" value="Apúntate (Alertas)" />
+		<data name="Alerta1" value="Dibujos Animados" />
+		<data name="Alerta2" value="Imágenes Manga" />
+		<data name="Alerta3" value="Imágenes Infantiles" />
+		<data name="Alerta4" value="Imágenes de Superhéroes" />
+		<data name="Alerta5" value="Fondos de Calendario" />
+		<data name="LnkShop21" value="http://alertaswap.movistar.com:81/alertsSubscription/wap/ShowAlert.do?wapalertid=772" />
+		<data name="LnkShop22" value="http://alertaswap.movistar.com:81/alertsSubscription/wap/ShowAlert.do?wapalertid=774" />
+		<data name="LnkShop23" value="http://alertaswap.movistar.com:81/alertsSubscription/wap/ShowAlert.do?wapalertid=773" />
+		<data name="LnkShop24" value="http://alertaswap.movistar.com:81/alertsSubscription/wap/ShowAlert.do?wapalertid=771" />		
+		<data name="LnkShop25" value="http://alertaswap.movistar.com:81/alertsSubscription/wap/ShowAlert.do?wapalertid=780" />		
+		<data name="LnkShop26" value="./alertas.aspx" />		
+	</Texts>
+	<Especial1>
+		<data name="1" value="Especial62" />
+		<data name="2" value="Especial5" />
+		<data name="3" value="Especial60" />
+		<data name="4" value="Especial20" />		
+		<data name="5" value="Especial36" />		
+		<data name="6" value="Especial45" />		
+		<data name="7" value="Especial68" />		
+		<data name="8" value="Especial20" />		
+		<data name="9" value="Especial36" />		
+		<data name="10" value="Especial5" />		
+		<data name="11" value="Especial20" />		
+		<data name="12" value="Especial72" />
+		<data name="13" value="Especial5" />		
+		<data name="14" value="Especial29" />		
+		<data name="15" value="Especial36" />		
+		<data name="16" value="Especial45" />		
+		<data name="17" value="Especial45" />		
+		<data name="18" value="Especial36" />		
+		<data name="19" value="Especial20" />
+		<data name="20" value="Especial5" />	
+		<data name="21" value="Especial60" />
+		<data name="22" value="Especial20" />
+		<data name="23" value="Especial45" />
+		<data name="24" value="Especial36" />
+		<data name="25" value="Especial76" />
+		<data name="26" value="Especial76" />
+		<data name="27" value="Especial36" />
+		<data name="28" value="Especial45" />
+		<data name="29" value="Especial76" />
+		<data name="30" value="Especial76" />
+		<data name="31" value="Especial76" />
+	</Especial1>
+	<Especial2>
+		<data name="1" value="Especial49" />
+		<data name="2" value="Especial29" />
+		<data name="3" value="Especial44" />
+		<data name="4" value="Especial24" />		
+		<data name="5" value="Especial23" />		
+		<data name="6" value="Especial49" />		
+		<data name="7" value="Especial29" />		
+		<data name="8" value="Especial64" />		
+		<data name="9" value="Especial61" />		
+		<data name="10" value="Especial29" />		
+		<data name="11" value="Especial49" />		
+		<data name="12" value="Especial24" />
+		<data name="13" value="Especial73" />		
+		<data name="14" value="Especial69" />		
+		<data name="15" value="Especial74" />		
+		<data name="16" value="Especial69" />		
+		<data name="17" value="Especial29" />		
+		<data name="18" value="Especial61" />		
+		<data name="19" value="Especial71" />
+		<data name="20" value="Especial29" />		
+		<data name="21" value="Especial67" />
+		<data name="22" value="Especial67" />
+		<data name="23" value="Especial53" />
+		<data name="24" value="Especial29" />
+		<data name="25" value="Especial5" />
+		<data name="26" value="Especial29" />
+		<data name="27" value="Especial61" />
+		<data name="28" value="Especial80" />
+		<data name="29" value="Especial67" />
+		<data name="30" value="Especial77" />
+		<data name="31" value="Especial32" />
+	</Especial2>
+	<Especial3>
+		<data name="1" value="Especial67" />
+		<data name="2" value="Especial50" />
+		<data name="3" value="Especial28" />
+		<data name="4" value="Especial50" />		
+		<data name="5" value="Especial67" />		
+		<data name="6" value="Especial50" />		
+		<data name="7" value="Especial67" />		
+		<data name="8" value="Especial67" />		
+		<data name="9" value="Especial67" />		
+		<data name="10" value="Especial28" />		
+		<data name="11" value="Especial72" />		
+		<data name="12" value="Especial69" />
+		<data name="13" value="Especial68" />		
+		<data name="14" value="Especial71" />		
+		<data name="15" value="Especial67" />		
+		<data name="16" value="Especial71" />		
+		<data name="17" value="Especial67" />		
+		<data name="18" value="Especial75" />		
+		<data name="19" value="Especial67" />
+		<data name="20" value="Especial70" />			
+		<data name="21" value="Especial69" />
+		<data name="22" value="Especial69" />
+		<data name="23" value="Especial69" />
+		<data name="24" value="Especial67" />
+		<data name="25" value="Especial79" />
+		<data name="26" value="Especial67" />
+		<data name="27" value="Especial69" />
+		<data name="28" value="Especial77" />
+		<data name="29" value="Especial78" />
+		<data name="30" value="Especial78" />
+		<data name="31" value="Especial77" />
+	</Especial3>
+	<ThemesCompatibility>
+	    <Mobile value='MOTOROLAA845' />
+		<Mobile value='MOTOROLAC650' />
+		<Mobile value='MOTOROLAC975' />
+		<Mobile value='MOTOROLAC980' />
+		<Mobile value='MOTOROLAE1000' />
+		<Mobile value='MOTOROLAE1070' />
+		<Mobile value='MOTOROLAE398' />
+		<Mobile value='MOTOROLAE550' />
+		<Mobile value='MOTOROLAE680' />
+		<Mobile value='MOTOROLAE680I' />
+		<Mobile value='MOTOROLAE770V' />
+		<Mobile value='MOTOROLAV1050' />
+		<Mobile value='MOTOROLAV220' />
+		<Mobile value='MOTOROLAV300' />
+		<Mobile value='MOTOROLAV500' />
+		<Mobile value='MOTOROLAV525' />
+		<Mobile value='MOTOROLAV525M' />
+		<Mobile value='MOTOROLAV550' />		
+		<Mobile value='MOTOROLAV555' />
+		<Mobile value='MOTOROLAV600' />
+		<Mobile value='MOTOROLAV620' />
+		<Mobile value='MOTOROLAV635' />
+		<Mobile value='MOTOROLAV80' />
+		<Mobile value='MOTOROLAV975' />		
+		<Mobile value='MOTOROLAV980' />
+		<Mobile value='Nokia2626' />
+		<Mobile value='NOKIA3220' />
+		<Mobile value='NOKIA3230' />
+		<Mobile value='NOKIA3250' />
+		<Mobile value='NOKIA5070' />		
+		<Mobile value='NOKIA5140' />
+		<Mobile value='NOKIA5140I' />
+		<Mobile value='NOKIA5200' />
+		<Mobile value='NOKIA5300' />
+		<Mobile value='NOKIA6020' />
+		<Mobile value='NOKIA6021' />		
+		<Mobile value='NOKIA6030' />
+		<Mobile value='NOKIA6060' />
+		<Mobile value='NOKIA6070' />
+		<Mobile value='NOKIA6080' />
+		<Mobile value='NOKIA6085' />
+		<Mobile value='NOKIA6101' />		
+		<Mobile value='NOKIA6103' />
+		<Mobile value='NOKIA6111' />
+		<Mobile value='NOKIA6125' />
+		<Mobile value='NOKIA6131' />
+		<Mobile value='NOKIA6133' />
+		<Mobile value='NOKIA6136' />		
+		<Mobile value='NOKIA6151' />
+		<Mobile value='NOKIA6170' />
+		<Mobile value='NOKIA6230i' />
+		<Mobile value='NOKIA6233' />
+		<Mobile value='NOKIA6234' />
+		<Mobile value='NOKIA6260' />		
+		<Mobile value='NOKIA6270' />
+		<Mobile value='NOKIA6280' />
+		<Mobile value='NOKIA6282' />
+		<Mobile value='NOKIA6288' />
+		<Mobile value='NOKIA6300' />
+		<Mobile value='NOKIA6600' />		
+		<Mobile value='NOKIA6620' />
+		<Mobile value='NOKIA6630' />
+		<Mobile value='NOKIA6670' />
+		<Mobile value='NOKIA6680' />
+		<Mobile value='NOKIA6681' />
+		<Mobile value='NOKIA6682' />		
+		<Mobile value='NOKIA6822' />
+		<Mobile value='NOKIA7260' />
+		<Mobile value='NOKIA7270' />
+		<Mobile value='NOKIA7360' />
+		<Mobile value='NOKIA7370' />
+		<Mobile value='NOKIA7390' />		
+		<Mobile value='NOKIA7610' />
+		<Mobile value='NOKIA8800' />
+		<Mobile value='NOKIAE50' />
+		<Mobile value='NOKIAE60' />
+		<Mobile value='NOKIAE61' />		
+		<Mobile value='NOKIAE65' />
+		<Mobile value='NOKIAE70' />
+		<Mobile value='NOKIAN71' />
+		<Mobile value='NOKIAN72' />
+		<Mobile value='NOKIAN73' />		
+		<Mobile value='NOKIAN77' />
+		<Mobile value='NOKIAN80' />
+		<Mobile value='NOKIAN92' />
+		<Mobile value='NOKIAN93' />
+		<Mobile value='NOKIAN95' />		
+		<Mobile value='NOKIA7373' />
+		<Mobile value='SIEMENSC72' />
+		<Mobile value='SIEMENSC75' />
+		<Mobile value='SIEMENSCV65' />
+		<Mobile value='SIEMENSCX65' />		
+		<Mobile value='SIEMENSCX70' />
+		<Mobile value='BENQSIEMENSCX75' />
+		<Mobile value='SIEMENSCX75' />
+		<Mobile value='SIEMENSM65' />
+		<Mobile value='SIEMENSM75' />		
+		<Mobile value='BENQSIEMENSM81' />
+		<Mobile value='SIEMENSME75' />
+		<Mobile value='SIEMENSS65' />
+		<Mobile value='SIEMENSS75' />
+		<Mobile value='SIEMENSSK65' />
+		<Mobile value='SIEMENSSL65' />
+		<Mobile value='SIEMENSS75' />
+		<Mobile value='SIEMENSSL75' />		
+		<Mobile value='SONYERICSSONZ1010' />
+		<Mobile value='SONYERICSSONZ1010MR3' />
+		<Mobile value='SONYERICSSOND750i' />
+		<Mobile value='SONYERICSSONF500i' />
+		<Mobile value='SONYERICSSONF500i-V0' />		
+		<Mobile value='SONYERICSSONJ220I' />
+		<Mobile value='SONYERICSSONJ300I' />
+		<Mobile value='SONYERICSSONK300' />
+		<Mobile value='SONYERICSSONK310i' />
+		<Mobile value='SONYERICSSONK320i' />
+		<Mobile value='SONYERICSSONK500' />
+		<Mobile value='SONYERICSSONK508' />
+		<Mobile value='SONYERICSSONK510i' />		
+		<Mobile value='SONYERICSSONK608I' />
+		<Mobile value='SONYERICSSONK610i' />
+		<Mobile value='SONYERICSSONK700' />
+		<Mobile value='SONYERICSSONK700I-V0' />
+		<Mobile value='SONYERICSSONK750i' />		
+		<Mobile value='SONYERICSSONK790i' />
+		<Mobile value='SONYERICSSONK800i' />
+		<Mobile value='SONYERICSSONK810i' />
+		<Mobile value='SONYERICSSONS700' />
+		<Mobile value='SONYERICSSONT230' />		
+		<Mobile value='SONYERICSSONT290' />
+		<Mobile value='SONYERICSSONT300' />		
+		<Mobile value='SONYERICSSONT310' />
+		<Mobile value='SONYERICSSONT630' />
+		<Mobile value='SONYERICSSONK300' />
+		<Mobile value='SONYERICSSONT68' />
+		<Mobile value='SONYERICSSONS600' />		
+		<Mobile value='SONYERICSSONV600' />
+		<Mobile value='SONYERICSSONV630I' />		
+		<Mobile value='SONYERICSSONV800' />
+		<Mobile value='SONYERICSSONW200i' />
+		<Mobile value='SONYERICSSONW300I' />
+		<Mobile value='SONYERICSSONW550' />
+		<Mobile value='SONYERICSSONW600' />		
+		<Mobile value='SONYERICSSONW700I' />
+		<Mobile value='SONYERICSSONW710I' />		
+		<Mobile value='SONYERICSSONW800I' />
+		<Mobile value='SONYERICSSONW850' />
+		<Mobile value='SONYERICSSONW880I' />
+		<Mobile value='SONYERICSSONW900' />
+		<Mobile value='SONYERICSSONZ310i' />		
+		<Mobile value='SONYERICSSONZ500i' />
+		<Mobile value='SONYERICSSONZ520i' />		
+		<Mobile value='SONYERICSSONZ530' />
+		<Mobile value='SONYERICSSONZ550I' />
+		<Mobile value='SONYERICSSONZ600' />
+		<Mobile value='SONYERICSSONZ610I' />
+	</ThemesCompatibility>	
+	<ThemesCompatibility2>
+	    <Mobile value='MOTOROLAA845' />
+		<Mobile value='MOTOROLAC650' />
+		<Mobile value='MOTOROLAC975' />
+		<Mobile value='MOTOROLAC980' />
+		<Mobile value='MOTOROLAE1000' />
+		<Mobile value='MOTOROLAE1070' />
+		<Mobile value='MOTOROLAE398' />
+		<Mobile value='MOTOROLAE550' />
+		<Mobile value='MOTOROLAE680' />
+		<Mobile value='MOTOROLAE680I' />
+		<Mobile value='MOTOROLAE770V' />
+		<Mobile value='MOTOROLAK1' />
+		<Mobile value='MOTOROLAL7' />
+		<Mobile value='MOTOROLAV3' />
+		<Mobile value='MOTOROLAV3X' />
+		<Mobile value='MOTOROLAV3I' />
+		<Mobile value='MOTOROLAE1' />
+		<Mobile value='MOTOROLAV1050' />
+		<Mobile value='MOTOROLAV220' />
+		<Mobile value='MOTOROLAV300' />
+		<Mobile value='MOTOROLAV500' />
+		<Mobile value='MOTOROLAV550' />		
+		<Mobile value='MOTOROLAV555' />
+		<Mobile value='MOTOROLAV620' />
+		<Mobile value='MOTOROLAV635' />
+		<Mobile value='MOTOROLAV80' />
+		<Mobile value='MOTOROLAV975' />		
+		<Mobile value='MOTOROLAV980' />
+		<Mobile value='NOKIA3230' />
+		<Mobile value='NOKIA3250' />
+		<Mobile value='NOKIA5200' />
+		<Mobile value='NOKIA5300' />
+		<Mobile value='NOKIA6060' />
+		<Mobile value='NOKIA6070' />
+		<Mobile value='NOKIA6080' />
+		<Mobile value='NOKIA6101' />		
+		<Mobile value='NOKIA6103' />
+		<Mobile value='NOKIA6111' />
+		<Mobile value='NOKIA6125' />
+		<Mobile value='NOKIA6131' />
+		<Mobile value='NOKIA6133' />
+		<Mobile value='NOKIA6136' />		
+		<Mobile value='NOKIA6151' />
+		<Mobile value='NOKIA6170' />
+		<Mobile value='NOKIA6233' />
+		<Mobile value='NOKIA6234' />
+		<Mobile value='NOKIA6260' />		
+		<Mobile value='NOKIA6270' />
+		<Mobile value='NOKIA6280' />
+		<Mobile value='NOKIA6282' />
+		<Mobile value='NOKIA6288' />
+		<Mobile value='NOKIA6300' />
+		<Mobile value='NOKIA6600' />		
+		<Mobile value='NOKIA6620' />
+		<Mobile value='NOKIA6630' />
+		<Mobile value='NOKIA6670' />
+		<Mobile value='NOKIA6680' />
+		<Mobile value='NOKIA6681' />
+		<Mobile value='NOKIA6682' />		
+		<Mobile value='NOKIA7270' />
+		<Mobile value='NOKIA7360' />
+		<Mobile value='NOKIA7370' />
+		<Mobile value='NOKIA7390' />		
+		<Mobile value='NOKIA7610' />
+		<Mobile value='NOKIA8800' />
+		<Mobile value='NOKIAE50' />
+		<Mobile value='NOKIAE60' />
+		<Mobile value='NOKIAE61' />		
+		<Mobile value='NOKIAE65' />
+		<Mobile value='NOKIAE70' />
+		<Mobile value='NOKIAN70' />
+		<Mobile value='NOKIAN71' />
+		<Mobile value='NOKIAN72' />
+		<Mobile value='NOKIAN73' />		
+		<Mobile value='NOKIAN80' />
+		<Mobile value='NOKIAN91' />
+		<Mobile value='NOKIAN92' />
+		<Mobile value='NOKIAN93' />
+		<Mobile value='NOKIAN95' />		
+		<Mobile value='NOKIA7373' />
+		<Mobile value='SIEMENSC72' />
+		<Mobile value='SIEMENSC75' />
+		<Mobile value='SIEMENSCX65' />		
+		<Mobile value='SIEMENSCX70' />
+		<Mobile value='SIEMENSM65' />
+		<Mobile value='SIEMENSM75' />		
+		<Mobile value='SIEMENSS65' />
+		<Mobile value='SIEMENSSK65' />
+		<Mobile value='SIEMENSSL65' />	
+		<Mobile value='SONYERICSSOND750i' />
+		<Mobile value='SONYERICSSONJ220I' />		
+		<Mobile value='SONYERICSSONK608I' />
+		<Mobile value='SONYERICSSONK610i' />
+		<Mobile value='SONYERICSSONT630' />	
+		<Mobile value='SONYERICSSONW550' />
+		<Mobile value='SONYERICSSONW600' />		
+		<Mobile value='SONYERICSSONW700I' />
+		<Mobile value='SONYERICSSONW710I' />		
+		<Mobile value='SONYERICSSONW800I' />
+		<Mobile value='SONYERICSSONZ600' />
+		<Mobile value='SONYERICSSONZ610I' />
+	</ThemesCompatibility2>	
+	<Descriptions>
+		<ContentSet value='4655' />
+		<ContentSet value='6162' />
+		<ContentSet value='5950' />
+	</Descriptions>
+	<NoPreviews>
+		<ContentSet value='6146' />
+		<ContentSet value='6156' />
+		<ContentSet value='6126' />
+		<ContentSet value='5974' />
+		<ContentSet value='5996' />
+		<ContentSet value='4655' />
+		<ContentSet value='6052' />
+		<ContentSet value='5870' />
+		<ContentSet value='5972' />
+		<ContentSet value='5888' />
+		<ContentSet value='5748' />
+		<ContentSet value='5659' />
+		<ContentSet value='2692' />
+		<ContentSet value='5540' />
+		<ContentSet value='2604' />
+		<ContentSet value='3059' />
+		<ContentSet value='5834' />
+		<ContentSet value='2814' />
+		<ContentSet value='2760' />
+		<ContentSet value='4626' />
+		<ContentSet value='4124' />
+		<ContentSet value='5944' />		
+	</NoPreviews>	
+	<Copyrights>
+		<Copyright value="THQ Wireless Branded"/>
+		<Copyright value="Sony Pictures" />
+		<Copyright value="Movilisto Branded" />
+		<Copyright value="Artema" />
+		<Copyright value="TIMwe Branded" />
+		<Copyright value="Kukuxumusu" />
+	</Copyrights>
+		<Alertas>
+		<ContentSet value="2850" link="2" desc="manga" />
+		<ContentSet value="3358" link="2" desc="manga" />
+		<ContentSet value="3751" link="2" desc="manga" />
+		<ContentSet value="3776" link="2" desc="manga" />
+		<ContentSet value="3778" link="2" desc="manga" />
+		<ContentSet value="4326" link="2" desc="manga" />
+		<ContentSet value="4396" link="2" desc="manga" />
+		<ContentSet value="5726" link="2" desc="manga" />
+		<ContentSet value="5972" link="2" desc="manga" />
+	</Alertas>
+</ConfigSite>

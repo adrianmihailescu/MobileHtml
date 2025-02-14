@@ -1,0 +1,1784 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Web"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{885049A7-7651-44F4-BE59-D611AA0A2595}"
+        SccProjectName = "SAK"
+        SccLocalPath = "SAK"
+        SccAuxPath = "SAK"
+        SccProvider = "SAK"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "xhtml_v4"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "Library"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "xhtml_v4"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                    HintPath = "..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.Web"
+                    AssemblyName = "System.Web"
+                    HintPath = "..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Web.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+                <Reference
+                    Name = "AGInteractive.Business"
+                    AssemblyName = "AGInteractive.Business"
+                    HintPath = "..\..\..\..\RELEASE\AGInteractive.Business\v1.0.705.0\AGInteractive.Business.dll"
+                    AssemblyFolderKey = "hklm\dn\aginteractive.business"
+                />
+                <Reference
+                    Name = "KMobile.BasicTools"
+                    AssemblyName = "KMobile.BasicTools"
+                    HintPath = "..\..\..\..\RELEASE\KMobile.BasicTools\v1.0.547.0\KMobile.BasicTools.dll"
+                    AssemblyFolderKey = "hklm\dn\kmobile.basictools"
+                />
+                <Reference
+                    Name = "KMobile.Catalog.Presentation"
+                    AssemblyName = "KMobile.Catalog.Presentation"
+                    HintPath = "..\..\..\..\RELEASE\KMobile.Catalog.Presentation\v1.0.629.0\KMobile.Catalog.Presentation.dll"
+                    AssemblyFolderKey = "hklm\dn\kmobile.catalog.presentation"
+                />
+                <Reference
+                    Name = "KMobile.Catalog.Services"
+                    AssemblyName = "KMobile.Catalog.Services"
+                    HintPath = "..\..\..\..\RELEASE\KMobile.Catalog.Services\v1.0.606.0\KMobile.Catalog.Services.dll"
+                    AssemblyFolderKey = "hklm\dn\kmobile.catalog.services"
+                />
+                <Reference
+                    Name = "System.Web.Mobile"
+                    AssemblyName = "System.Web.Mobile"
+                    HintPath = "..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Web.Mobile.dll"
+                />
+                <Reference
+                    Name = "System.Configuration.Install"
+                    AssemblyName = "System.Configuration.Install"
+                    HintPath = "..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Configuration.Install.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "alertas.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "alertas.aspx.cs"
+                    DependentUpon = "alertas.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "alertas.aspx.resx"
+                    DependentUpon = "alertas.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "animation.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "animation.aspx.cs"
+                    DependentUpon = "animation.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "animation.aspx.resx"
+                    DependentUpon = "animation.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "animationbranded.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "animationbranded.aspx.cs"
+                    DependentUpon = "animationbranded.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "animationbranded.aspx.resx"
+                    DependentUpon = "animationbranded.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "catalog.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "catalog.aspx.cs"
+                    DependentUpon = "catalog.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "catalog.aspx.resx"
+                    DependentUpon = "catalog.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ConfigSite.xml"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "default.aspx"
+                    SubType = "Form"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "default.aspx.cs"
+                    DependentUpon = "default.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "default.aspx.resx"
+                    DependentUpon = "default.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "error.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "error.aspx.cs"
+                    DependentUpon = "error.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "error.aspx.resx"
+                    DependentUpon = "error.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Global.asax"
+                    SubType = "Component"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Global.asax.cs"
+                    DependentUpon = "Global.asax"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Global.asax.resx"
+                    DependentUpon = "Global.asax.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "halloween.css"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "image.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "image.aspx.cs"
+                    DependentUpon = "image.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "image.aspx.resx"
+                    DependentUpon = "image.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "imagebranded.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "imagebranded.aspx.cs"
+                    DependentUpon = "imagebranded.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "imagebranded.aspx.resx"
+                    DependentUpon = "imagebranded.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "linkto.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "linkto.aspx.cs"
+                    DependentUpon = "linkto.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "linkto.aspx.resx"
+                    DependentUpon = "linkto.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "minisite.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "minisite.aspx.cs"
+                    DependentUpon = "minisite.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "minisite.aspx.resx"
+                    DependentUpon = "minisite.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "promo.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "promo.aspx.cs"
+                    DependentUpon = "promo.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "promo.aspx.resx"
+                    DependentUpon = "promo.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "promobranded.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "promobranded.aspx.cs"
+                    DependentUpon = "promobranded.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "promobranded.aspx.resx"
+                    DependentUpon = "promobranded.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "shops.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "shops.aspx.cs"
+                    DependentUpon = "shops.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "shops.aspx.resx"
+                    DependentUpon = "shops.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "video.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "video.aspx.cs"
+                    DependentUpon = "video.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "video.aspx.resx"
+                    DependentUpon = "video.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "videobranded.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "videobranded.aspx.cs"
+                    DependentUpon = "videobranded.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "videobranded.aspx.resx"
+                    DependentUpon = "videobranded.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "view.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "view.aspx.cs"
+                    DependentUpon = "view.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "view.aspx.resx"
+                    DependentUpon = "view.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Web.config"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "xhtml.css"
+                    BuildAction = "Content"
+                />
+                <Folder RelPath = "bin\" />
+                <File
+                    RelPath = "galeria\catalog.aspx"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "galeria\catalog.aspx.cs"
+                    DependentUpon = "catalog.aspx"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "galeria\catalog.aspx.resx"
+                    DependentUpon = "catalog.aspx.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Images\back20.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\back25.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\back40.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\back60.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\bullet.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\buscar20.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\buscar24.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\buscar25.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\buscar40.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\buscar60.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\down5.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\emocion20.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\emocion25.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\emocion40.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\emocion60.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial1.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial10.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial11.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial12.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial13.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial14.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial15.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial16.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial17.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial18.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial19.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial20.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial21.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial22.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial23.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial24.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial25.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial26.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial27.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial28.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial29.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial3.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial30.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial31.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial32.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial33.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial34.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial35.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial36.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial37.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial38.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial39.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial4.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial40.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial41.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial42.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial43.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial44.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial45.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial46.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial47.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial48.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial49.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial5.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial50.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial51.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial52.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial53.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial54.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial55.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial56.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial57.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial58.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial59.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial6.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial60.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial61.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial62.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial63.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial64.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial65.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial66.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial67.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial68.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial69.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial7.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial70.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial71.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial72.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial73.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial74.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial75.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial76.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial77.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial78.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial79.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial8.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial80.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial81.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\especial9.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\Gemo16.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\Gpar16.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\halloween.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hback20.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hback25.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hback40.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hback60.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hbuscar20.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hbuscar25.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hbuscar40.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hbuscar60.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hemocion20.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hemocion25.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hemocion40.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hemocion60.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hup20.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hup25.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hup40.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\hup60.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\marcador.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\Pbus16.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\Pmem16.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\sfanim.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\sfgame.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\sftonos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\sftv.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\Sgoog16.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\up20.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\up24.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\up25.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\up40.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\up60.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\ahora.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\amor.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\anim_rata.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\animaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\apuntate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\apuntate2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\categorias.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\descargate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\destacados.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\euanimaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\euimagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\fondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\hall_animaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\hall_fondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\hall_imagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\hall_tonos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\hall_video.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\halloween.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\imagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\img_rata.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\junior.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\logo_dedicatorias.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\logo_fondonombres.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\modelos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\novedades.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\portales.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\portales2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\ratatouille.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\resultados.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\schoolanim.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\schoolimg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\schoolvideo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\stanimaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\stheader.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\stimages.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\top.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\118\videos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\ahora.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\amor.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\anim_rata.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\animaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\apuntate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\apuntate2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\categorias.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\descargate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\destacados.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\euanimaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\euimagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\fondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\hall_animaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\hall_fondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\hall_imagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\hall_tonos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\hall_video.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\halloween.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\imagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\img_rata.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\junior.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\logo_dedicatorias.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\logo_fondonombres.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\modelos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\novedades.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\portales.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\portales2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\ratatouille.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\resultados.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\schoolanim.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\schoolimg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\schoolvideo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\stanimaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\stheader.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\stimages.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\top.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\164\videos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\ahora.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\ahoraenimagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\amor.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\anim_rata.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\animaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\apuntate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\apuntate2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\categorias.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\descargate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\destacados.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\euanimaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\euimagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\fondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\hall_animaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\hall_fondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\hall_imagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\hall_tonos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\hall_video.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\halloween.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\hfondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\imagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\img_rata.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\junior.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\logo_dedicatorias.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\logo_fondonombres.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\modelos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\novedades.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\portales.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\portales2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\ratatouille.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\resultados.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\schoolanim.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\schoolimg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\schoolvideo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\stanimaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\stheader.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\stimages.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\top.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\topanim.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\topvideos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\229\videos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\ahora.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\amor.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\anim_rata.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\animaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\apuntate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\apuntate2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\categorias.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\descargate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\destacados.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\euanimaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\euimagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\fondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\hall_animaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\hall_fondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\hall_imagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\hall_tonos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\hall_video.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\halloween.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\imagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\img_rata.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\junior.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\logo_dedicatorias.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\logo_fondonombres.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\modelos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\novedades.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\portales.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\portales2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\ratatouille.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\resultados.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\schoolanim.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\schoolimg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\schoolvideo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\stanimaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\stheader.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\stimages.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\top.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\topanim.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\topvideos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\315\videos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\ahora.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\amor.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\anim_rata.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\animaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\apuntate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\apuntate2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\categorias.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\descargate.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\destacados.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\euanimaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\euimagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\fondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\hall_animaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\hall_fondo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\hall_imagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\hall_tonos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\hall_video.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\halloween.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\imagenes.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\img_rata.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\junior.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\logo_dedicatorias.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\logo_fondonombres.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\modelos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\novedades.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\portales.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\portales2.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\ratatouille.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\resultados.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\schoolanim.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\schoolimg.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\schoolvideo.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\stanimaciones.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\stheader.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\stimages.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\top.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\topanim.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\topvideos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\339\videos.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\k610i\128.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\k610i\entrelazado.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\k610i\nonprogre.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\k610i\progre.jpg"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\k610i\sintramado.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\k610i\trasnparencia.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Images\k610i\w6w9.gif"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Tools\CatalogApi.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Tools\ContentDisplayManager.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Tools\Log.cs"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Tools\Log.resx"
+                    DependentUpon = "Log.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Tools\WapTools.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Tools\XCatalogBrowsing.cs"
+                    SubType = "ASPXCodeBehind"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Tools\XhtmlControls.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Tools\XhtmlTools.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<parameters>
+    <page id="TONES">
+      <language id="6">
+        <object id="NEW_SOUND_POLY">3225</object>
+        <object id="NEW_SOUND_HIFI">3236</object>
+        <object id="TOP_SOUND_HIFI">3226</object>
+        <object id="NEW_SOUND_VIDEO">3236</object>
+        <object id="TOP_SOUND_VIDEO">3226</object>
+        <object id="TOP_SOUND_FX">3227</object>
+        <object id="TOP_SOUND_POLY">482</object>        
+        
+        <object id="COMPOSITE_SOUND_POLY">3274</object>
+        <object id="COMPOSITE_SOUND_HIFI">3377</object>
+        <object id="COMPOSITE_SOUND_FX">2756</object>
+        <object id="COMPOSITE_VIDEO_CLIP">4015</object>
+        <object id="COMPOSITE_SOUND_VIDEO">3377</object>
+        
+				<object id="SOUND_POLY">Poli Music</object>
+				<object id="SOUND_HIFI">Real Music</object>
+				<object id="SOUND_VIDEO">Real Music</object>
+				<object id="SOUND_FX">Effetti Speciali</object>        
+				<object id="VIDEO_CLIP">VideoSuonerie</object>
+
+        <object id="EMOJI_SOUND_HIFI"><![CDATA[&#59020;]]></object>
+        <object id="EMOJI_SOUND_VIDEO"><![CDATA[&#59020;]]></object>        
+        <object id="EMOJI_SOUND_FX"><![CDATA[&#59138;]]></object>
+        <object id="EMOJI_SOUND_POLY"><![CDATA[&#59126;]]></object>
+        <object id="EMOJI_VIDEO_CLIP"><![CDATA[&#58999;]]></object>
+
+        <object id="COLOR_HEADER_SOUND_HIFI">#0092FF</object>
+        <object id="COLOR_HEADER_SOUND_VIDEO">#0092FF</object>        
+        <object id="COLOR_HEADER_SOUND_FX">#00B6AA</object>
+        <object id="COLOR_HEADER_SOUND_POLY">#2400AA</object>
+        <object id="COLOR_HEADER_VIDEO_CLIP">#DB00FF</object>
+
+        <object id="CREDIT_SOUND_HIFI"><![CDATA[2]]></object>
+        <object id="CREDIT_SOUND_VIDEO"><![CDATA[2]]></object>        
+        <object id="CREDIT_SOUND_FX"><![CDATA[1]]></object>
+        <object id="CREDIT_SOUND_POLY"><![CDATA[1]]></object>
+        <object id="CREDIT_VIDEO_CLIP"><![CDATA[2]]></object>
+        
+        <object id="TXT_SCREENS1">Pi&amp;ugrave; di 4000 Sfondi Animazioni MiniCartoni</object>
+        <object id="TXT_SCREENS2">Scopri i KiweeScreens</object>
+        <object id="TXT_SCREENS3">Cartoons Love Sexy Humor</object>
+      </language>
+    </page>
+    <page id="SCREENS">
+			<language id="6">
+				<object id="EXCLU"><![CDATA[Gli Orsetti del Cuore]]></object>
+				<object id="EXCLU_TEXT"><![CDATA[Gli Orsetti che hanno conquistato gli anni '80... ora la moda &eacute; tornata: Scegli il tuo in esclusiva!]]></object>
+				<object id="EXCLU_IMG"><![CDATA[1385]]></object>
+				<object id="EXCLU_ANIM"><![CDATA[2414]]></object>
+				<object id="EXCLU_CALENDAR"><![CDATA[2659]]></object>
+				<object id="TOP_IMG">2652</object>
+				<object id="TOP_ANIM">2647</object>
+				<object id="NEW_IMG">2654</object>
+				<object id="NEW_ANIM">2653</object>
+				<object id="TOP_VIDEO">2655</object>
+				<object id="NEW_VIDEO">2656</object>
+				
+				<object id="COMPOSITE_IMG">3689</object>
+				<object id="COMPOSITE_ANIM">3804</object>
+				<object id="COMPOSITE_VIDEO_RGT">4015</object>
+				
+	
+				<object id="IMG">Sfondi</object>
+				<object id="ANIM">Animazioni</object>
+				<object id="VIDEO_RGT">VideoSuonerie</object>
+				
+				<object id="IMG_ITEM_PAGE">3</object>
+				<object id="IMG_ITEM_PAGE200">6</object>
+				<object id="ANIM_ITEM_PAGE">1</object>
+				<object id="ANIM_ITEM_PAGE200">3</object>
+				<object id="VIDEO_RGT_ITEM_PAGE">2</object>
+				<object id="VIDEO_RGT_ITEM_PAGE200">4</object>
+				<object id="COMPOSITE_ITEM_PAGE">15</object>
+				<object id="COMPOSITE_ITEM_PAGE200">15</object>
+								
+				<object id="IMG_ITEM_ROW">1</object>
+				<object id="IMG_ITEM_ROW200">2</object>
+				<object id="ANIM_ITEM_ROW">1</object>
+				<object id="ANIM_ITEM_ROW200">3</object>
+				<object id="VIDEO_RGT_ITEM_ROW">1</object>
+				<object id="VIDEO_RGT_ITEM_ROW200">2</object>
+				<object id="COMPOSITE_ITEM_ROW">1</object>
+				<object id="COMPOSITE_ITEM_ROW200">1</object>
+				
+				<object id="IMG_PREVIEW">GIF_PREVIEW_IMODE</object>				
+				<object id="ANIM_PREVIEW">GIF_A_PR_40x40x8</object>				
+				<object id="VIDEO_RGT_PREVIEW">GIF_PR_67x45</object>	
+				
+				<object id="IMG_CREDIT">1</object>				
+				<object id="ANIM_CREDIT">1</object>				
+				<object id="VIDEO_RGT_CREDIT">2</object>								
+				
+				<object id="IMG_EMOJI"><![CDATA[&#58943;]]></object>
+				<object id="ANIM_EMOJI"><![CDATA[&#58946;]]></object>
+				<object id="VIDEO_RGT_EMOJI"><![CDATA[&#58999;]]></object>
+				
+				<object id="IMG_COLOR_DARK">#ED5F23</object>
+				<object id="IMG_COLOR_LIGHT">#F38720</object>
+				<object id="ANIM_COLOR_DARK">#926DAA</object>
+				<object id="ANIM_COLOR_LIGHT">#B692AA</object>
+				<object id="VIDEO_RGT_COLOR_DARK">#3A9B16</object>				
+				<object id="VIDEO_RGT_COLOR_LIGHT">#08DD0D</object>		
+				
+		        <object id="CREDIT_IMG_COLOR"><![CDATA[1]]></object>
+				<object id="CREDIT_ANIM_COLOR"><![CDATA[1]]></object>
+				<object id="CREDIT_VIDEO_CLIP"><![CDATA[2]]></object>
+				
+        <object id="TXT_TONES1">Tutte le suonerie dei CARTONI e tanto ancora</object>
+        <object id="TXT_TONES2">Tantissime suonerie</object>
+			</language>
+    </page>
+</parameters>

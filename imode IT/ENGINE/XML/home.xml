@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<contentgroups>
+	<contentgroup id="IMG">
+		<thema1>
+			<thema>
+				<title><![CDATA[CHARMED]]></title>
+				<image><![CDATA[/images/event/charmed.gif]]></image>
+				<backgroundcolor><![CDATA[#8B018D]]></backgroundcolor>
+				<fontcolor><![CDATA[#FFFFFF]]></fontcolor>
+				<text><![CDATA[Retrouve tes sorci&egrave;res bien-aim&eacute;es !]]></text>
+				<link><![CDATA[catalog.asp?c=780&v=1]]></link>
+			</thema>
+		</thema1>
+	</contentgroup>
+</contentgroups>
